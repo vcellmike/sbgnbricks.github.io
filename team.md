@@ -4,13 +4,7 @@ title: Team
 permalink: /team/
 ---
 
-## Cystic Fibrosis Domain Experts
-
-The list of is being confirmed
-
 ## Computational Biology Team
-
-<br />
 
 <table>
     <tr>
@@ -30,5 +24,9 @@ The list of is being confirmed
 </table>
 
 <br />
+
+## Cystic Fibrosis Domain Experts
+
+The list of is being confirmed
 
 
