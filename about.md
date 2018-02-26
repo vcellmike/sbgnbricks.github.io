@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## About
 
-### More Information
+The project is initiated by the University of Lisbon.
 
-A place to include any other types of information that you'd like to include about yourself.
+## Contact
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[cystic-fibrosis-map@googlegroups.com](cystic-fibrosis-map@googlegroups.com)
