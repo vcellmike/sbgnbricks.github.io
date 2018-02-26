@@ -4,7 +4,9 @@ title: Team
 permalink: /team/
 ---
 
-## Computational Biology Team
+## Development Team
+
+Text  
 
 <table>
     <tr>
