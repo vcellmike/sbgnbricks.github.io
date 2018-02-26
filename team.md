@@ -4,7 +4,7 @@ title: Team
 permalink: /team/
 ---
 
-## Development Team
+# Development Team
  
 <br />
 <table>
@@ -26,7 +26,7 @@ permalink: /team/
 
 <br />
 
-## Cystic Fibrosis Domain Experts
+# Cystic Fibrosis Domain Experts
 
 The list of is being confirmed
 
