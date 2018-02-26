@@ -10,4 +10,5 @@ The project was initiated by the University of Lisbon and is designed as a close
 
 # Contact
 
-To contribute and discuss the project please use this email address: [cystic-fibrosis-map@googlegroups.com](cystic-fibrosis-map@googlegroups.com)
+To contribute and discuss the project please use this email address:  
+[cystic-fibrosis-map@googlegroups.com](cystic-fibrosis-map@googlegroups.com)
