@@ -4,7 +4,7 @@ title: Model
 permalink: /model/
 ---
 
-# A model of cystic fibrosis mechanisms
+# Model of cystic fibrosis
 
 The goal of this project is to develop a computational model of molecular mechanisms which are affected in cystic fibrosis and to quantitatively elucidate the underlying molecular and cellular events.
 
