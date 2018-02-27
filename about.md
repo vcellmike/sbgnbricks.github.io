@@ -6,7 +6,7 @@ permalink: /about/
 
 # About
 
-The project was initiated by the University of Lisbon and is designed as a close collaboration of experts in cystic fibrosis and lung diseases with clinical experience and research computational biology groups in academia.
+The project was initiated by the University of Lisbon and is designed as a close collaboration of experts in cystic fibrosis and and computational biology research groups.
 
 # Contact
 
