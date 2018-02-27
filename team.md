@@ -9,10 +9,10 @@ permalink: /team/
 <br />
 <table>
     <tr>
-      <td style="width: 220px;" align="center"><img src="/images/team/CatarinaPereira.jpg" width="130"/></td>
-      <td style="width: 220px;" align="center"><img src="/images/team/AndreFalcao.jpg" width="130"/></td>
-      <td style="width: 220px;" align="center"><img src="/images/team/MargaridaDAmaral.jpg" width="130"/></td>
-      <td style="width: 220px;" align="center"><img src="/images/team/AlexanderMazein.jpg" width="130"/></td>
+      <td style="width: 220px;" align="center"><img src="/images/team/CatarinaPereira.jpg" width="120"/></td>
+      <td style="width: 220px;" align="center"><img src="/images/team/AndreFalcao.jpg" width="120"/></td>
+      <td style="width: 220px;" align="center"><img src="/images/team/MargaridaDAmaral.jpg" width="120"/></td>
+      <td style="width: 220px;" align="center"><img src="/images/team/AlexanderMazein.jpg" width="120"/></td>
     </tr>
 </table>
 <table>
