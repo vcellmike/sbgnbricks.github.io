@@ -19,8 +19,8 @@ permalink: /team2/
       Supervisor of the CF-MAP PhD project</td>
     </tr>
     <tr>
-      <td><img src="/images/team/MargaridaDAmaral.jpg" /></td>
-      <<td style="width: 125px;" align="center"><img src="/images/team/MargaridaDAmaral.jpg" width="120"/></td>
+      <td style="width: 125px;" align="center"><img src="/images/team/MargaridaDAmaral.jpg" width="120"/></td>
+      <td><strong>Margarida D. Amaral, PhD</strong><br \>
       <strong>University of Lisbon, Portugal</strong><br \>Professor, Chemistry and Biochemistry Department, Faculty of Sciences
       <br \>Co-supervisor of the CF-MAP PhD project</td>
     </tr>
