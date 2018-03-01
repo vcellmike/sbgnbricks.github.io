@@ -28,6 +28,6 @@ permalink: /team/
 
 # Cystic Fibrosis Domain Experts
 
-The list of is being confirmed
+The list is being confirmed.
 
 
