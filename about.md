@@ -16,7 +16,6 @@ To contribute and discuss the project please use this email address:
 [cysticfibrosismap@googlegroups.com](cysticfibrosismap@googlegroups.com)
 
 Project Coordinators:  
-
 Catarina Pereira [cpereira@lasige.di.fc.ul.pt](cpereira@lasige.di.fc.ul.pt)  
 André Falcão [aofalcao@ciencias.ulisboa.pt](aofalcao@ciencias.ulisboa.pt)  
 Margarida D. Amaral [msamaral@fc.ul.pt](msamaral@fc.ul.pt)  
