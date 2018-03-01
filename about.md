@@ -17,7 +17,7 @@ To contribute and discuss the project please use this email address:
 
 Project Coordinators:  
 
-Catarina Pereira [cpereira@lasige.di.fc.ul.pt](cpereira@lasige.di.fc.ul.pt) 
+Catarina Pereira [cpereira@lasige.di.fc.ul.pt](cpereira@lasige.di.fc.ul.pt)  
 André Falcão [aofalcao@ciencias.ulisboa.pt](aofalcao@ciencias.ulisboa.pt)  
 Margarida D. Amaral [msamaral@fc.ul.pt](msamaral@fc.ul.pt)  
 Alexander Mazein [amazen@eisbm.org](amazen@eisbm.org)  
