@@ -42,7 +42,7 @@ Alexander Mazein [amazen@eisbm.org](amazen@eisbm.org)
 
 # Cystic Fibrosis Domain Experts
 
-The list is being confirmed
+The list is being confirmed.
 
 # Funding
 
