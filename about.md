@@ -22,8 +22,7 @@ Margarida D. Amaral [msamaral@fc.ul.pt](msamaral@fc.ul.pt)
 Alexander Mazein [amazen@eisbm.org](amazen@eisbm.org) 
 
 # Development Team
- 
-<br />
+
 <table>
     <tr>
       <td style="width: 220px;" align="center"><img src="/images/team/CatarinaPereira.jpg" width="120"/></td>
@@ -40,8 +39,6 @@ Alexander Mazein [amazen@eisbm.org](amazen@eisbm.org)
       <td style="width: 220px;" align="center"><strong>Alexander Mazein, PhD</strong><br />European Institute for Systems Biology and Medicine, Lyon, France</td>
     </tr>
 </table>
-
-<br />
 
 # Cystic Fibrosis Domain Experts
 
