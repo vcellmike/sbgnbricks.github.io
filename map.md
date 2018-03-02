@@ -12,8 +12,8 @@ The following approach is used to develop a map of the cystic fibrosis mechanism
 
 <table>
     <tr>
-      <td style="width: 400px;" align="center">wt-CFTR</td>
-      <td style="width: 400px;" align="center">F508del-CFTR</td>
+        <td style="width: 400px;" align="center"><strong>wt-CFTR</strong></td>
+      <td style="width: 400px;" align="center"><strong>F508del-CFTR</strong></td>
     </tr>
 </table>
 <table>
