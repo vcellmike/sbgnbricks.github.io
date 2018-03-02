@@ -19,4 +19,4 @@ The following approach is used to develop a map of the cystic fibrosis mechanism
 
 # Signalling in cystic fibrosis: mechanistic representation in SBGN Process Description
 
-<img src="/images/maps/CFTR_PD_V03.png" width="800"/>
+<img src="/images/maps/CFTR_PD_V03.png" width="600"/>
