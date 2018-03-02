@@ -6,7 +6,9 @@ permalink: /model/
 
 # Model of cystic fibrosis
 
-The goal of this project is to develop a computational model of molecular mechanisms which are affected in cystic fibrosis and to quantitatively elucidate the underlying molecular and cellular events.
+A computational model of cystic fibrosis is based on the CF-MAP reconstruction. Hypothesis and assumptions are added on the top of the known described mechanisms.
+
+The goal is to develop a computational model of molecular mechanisms which are affected in cystic fibrosis and to quantitatively elucidate the underlying molecular and cellular events.
 
 The objectives are:
 
