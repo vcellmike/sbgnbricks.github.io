@@ -16,5 +16,5 @@ The objectives are:
 
 2. Construct a logical model network from the available data using Bayesian or Markov model.
 
-3. Testing and stress the developed model so that it is possible to make an inference by changing and modifying the model inputs. Results will be verified against available experimental data and new essays will be proposed to validate the model consistency.
+3. Test and stress the developed model so that it is possible to make an inference by changing and modifying the model inputs. Results will be verified against available experimental data and new essays will be proposed to validate the model consistency.
 
