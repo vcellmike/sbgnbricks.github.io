@@ -26,6 +26,6 @@ The following approach is used to develop a map of the cystic fibrosis mechanism
 
 # Mechanistic representation in SBGN Process Description
 
-<p>An initial diagram of CFTR life cycle shown as a set of processes (in prepareation).</p>
+<p>An initial diagram of CFTR life cycle shown as a set of processes. The complete reconstruction is in preparation.</p>
 
 <img src="/images/maps/CFTR_PD_V03.png" width="600"/>
