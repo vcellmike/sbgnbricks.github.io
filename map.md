@@ -12,7 +12,7 @@ The following approach is used to develop a map of cystic fibrosis mechanisms. I
 
 <table>
     <tr>
-      <td style="width: 360px;" align="center"><img src="/images/maps/CFTR_WT_v06_Blue.png" width="300"/></td>
-      <td style="width: 360px;" align="center"><img src="/images/maps/CFTR_WT_v06_Yellow.png" width="300"/></td>
+      <td style="width: 320px;" align="center"><img src="/images/maps/CFTR_WT_v06_Blue.png" width="300"/></td>
+      <td style="width: 320px;" align="center"><img src="/images/maps/CFTR_WT_v06_Yellow.png" width="300"/></td>
     </tr>
 </table>
