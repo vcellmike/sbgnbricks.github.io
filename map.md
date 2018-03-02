@@ -22,7 +22,10 @@ The following approach is used to develop a map of the cystic fibrosis mechanism
       <td style="width: 400px;" align="center"><img src="/images/maps/CFTR_WT_v06_Mutation.png" width="380"/></td>
     </tr>
 </table>
+<br />
 
 # Mechanistic representation in SBGN Process Description
+
+<p>An initial diagram of CFTR life cycle shown as a set of processes (in prepareation).</p>
 
 <img src="/images/maps/CFTR_PD_V03.png" width="600"/>
