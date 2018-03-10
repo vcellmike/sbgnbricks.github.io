@@ -12,13 +12,13 @@ The CF-MAP project develops in alliance with the [Disease Maps Community](https:
 
 # Contact
 
-To contribute and discuss the project please use this email address: [cysticfibrosismap@googlegroups.com](cysticfibrosismap@googlegroups.com)  
+To contribute and discuss the project please use this email address: [cysticfibrosismap@googlegroups.com](mailto:cysticfibrosismap@googlegroups.com)  
 
 Project Coordinators:  
-Catarina Pereira [cpereira@lasige.di.fc.ul.pt](cpereira@lasige.di.fc.ul.pt)  
-André Falcão [aofalcao@ciencias.ulisboa.pt](aofalcao@ciencias.ulisboa.pt)  
-Margarida D. Amaral [msamaral@fc.ul.pt](msamaral@fc.ul.pt)  
-Alexander Mazein [amazen@eisbm.org](amazen@eisbm.org) 
+Catarina Pereira [cpereira@lasige.di.fc.ul.pt](mailto:cpereira@lasige.di.fc.ul.pt)  
+André Falcão [aofalcao@ciencias.ulisboa.pt](mailto:aofalcao@ciencias.ulisboa.pt)  
+Margarida D. Amaral [msamaral@fc.ul.pt](mailto:msamaral@fc.ul.pt)  
+Alexander Mazein [amazen@eisbm.org](mailto:amazen@eisbm.org) 
 
 # Funding
 
