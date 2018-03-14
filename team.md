@@ -6,7 +6,6 @@ permalink: /team/
 
 # Development Team
 
-<br />
 <table>
     <tr>
       <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/CatarinaPereira.jpg" width="160"/></p></td>
