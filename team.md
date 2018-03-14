@@ -23,8 +23,6 @@ permalink: /team/
     </tr>
 </table>
 
-<br />
-
 # Cystic Fibrosis Domain Experts
 
 The list is being confirmed.
