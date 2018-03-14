@@ -10,7 +10,7 @@ permalink: /team/
 <table>
     <tr>
       <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/CatarinaPereira.jpg" width="160"/></p></td>
-      <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AndreFalcao.jpg.jpg" width="160"/></p></td>
+      <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AndreFalcao.jpg" width="160"/></p></td>
       <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/MargaridaDAmaral.jpg" width="160"/></p></td>
       <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AlexanderMazein.jpg" width="160"/></p></td>
     </tr>
