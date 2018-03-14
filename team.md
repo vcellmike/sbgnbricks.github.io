@@ -17,10 +17,10 @@ permalink: /team/
 </table>
 <table>
     <tr>
-      <td style="width: 220px;" align="center"><strong>Catarina Pereira, MSc</strong><br />University of Lisbon, Lisbon, Portugal</td>
-      <td style="width: 220px;" align="center"><strong>André Falcão, PhD</strong><br />University of Lisbon, Lisbon, Portugal</td>
-      <td style="width: 220px;" align="center"><strong>Margarida D. Amaral, PhD</strong><br />University of Lisbon, Lisbon, Portugal</td>
-      <td style="width: 220px;" align="center"><strong>Alexander Mazein, PhD</strong><br />European Institute for Systems Biology and Medicine, Lyon, France</td>
+      <td style="width: 220px;" align="center"><strong>Catarina Pereira</strong><br />University of Lisbon, Lisbon, Portugal</td>
+      <td style="width: 220px;" align="center"><strong>André Falcão</strong><br />University of Lisbon, Lisbon, Portugal</td>
+      <td style="width: 220px;" align="center"><strong>Margarida D. Amaral</strong><br />University of Lisbon, Lisbon, Portugal</td>
+      <td style="width: 220px;" align="center"><strong>Alexander Mazein</strong><br />European Institute for Systems Biology and Medicine, Lyon, France</td>
     </tr>
 </table>
 
