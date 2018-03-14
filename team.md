@@ -5,22 +5,22 @@ permalink: /team/
 ---
 
 # Development Team
- 
+
 <br />
 <table>
     <tr>
-      <td style="width: 220px;" align="center"><img src="/images/team/CatarinaPereira.jpg" width="120"/></td>
-      <td style="width: 220px;" align="center"><img src="/images/team/AndreFalcao.jpg" width="120"/></td>
-      <td style="width: 220px;" align="center"><img src="/images/team/MargaridaDAmaral.jpg" width="120"/></td>
-      <td style="width: 220px;" align="center"><img src="/images/team/AlexanderMazein.jpg" width="120"/></td>
+      <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/CatarinaPereira.jpg" width="160"/></p></td>
+      <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AndreFalcao.jpg.jpg" width="160"/></p></td>
+      <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/MargaridaDAmaral.jpg" width="160"/></p></td>
+      <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AlexanderMazein.jpg" width="160"/></p></td>
     </tr>
 </table>
 <table>
     <tr>
-      <td style="width: 220px;" align="center"><strong>Catarina Pereira</strong><br />University of Lisbon, Lisbon, Portugal</td>
-      <td style="width: 220px;" align="center"><strong>André Falcão</strong><br />University of Lisbon, Lisbon, Portugal</td>
-      <td style="width: 220px;" align="center"><strong>Margarida D. Amaral</strong><br />University of Lisbon, Lisbon, Portugal</td>
-      <td style="width: 220px;" align="center"><strong>Alexander Mazein</strong><br />European Institute for Systems Biology and Medicine, Lyon, France</td>
+      <td style="width: 200px;"><p style="margin:4px;"><strong>Catarina Pereira</strong></p><p style="margin:4px; line-height:100%;"><font size="2">University of Lisbon, Lisbon, Portugal</font></p></td>
+      <td style="width: 200px;"><p style="margin:4px;"><strong>André Falcão</strong></p><p style="margin:4px; line-height:100%;"><font size="2">University of Lisbon, Lisbon, Portugal</font></p></td>
+      <td style="width: 200px;"><p style="margin:4px;"><strong>Margarida D. Amaral</strong></p><p style="margin:4px; line-height:100%;"><font size="2">University of Lisbon, Lisbon, Portugal</font></p></td>
+      <td style="width: 200px;"><p style="margin:4px;"><strong>Alexander Mazein</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
     </tr>
 </table>
 
