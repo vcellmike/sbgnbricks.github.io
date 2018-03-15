@@ -6,7 +6,7 @@ permalink: /map/
 
 # Map of cystic fibrosis mechanisms
 
-The following approach is used to develop a map of the cystic fibrosis mechanisms. Information from literature is integrated into a large-scale Activity Flow diagram. Particular focus is on various types of mutations of CFTR gene. Information from pathway databases, for example Reactome and PANTHER, is reused when possible, and contextualised. The network is presented in the Systems Biology Graphical Notation (SBGN) standard. A community of domain experts is involved to ensure that the disease mechanisms are adequately represented.  
+To the development of the cystic fibrosis map mechanisms the information from literature is integrated into a large-scale Activity Flow diagram. Particular focus is on a specific mutation in the CFTR gene, F508del, the most common mutation in CF patients. Information from pathway databases, for example Reactome and PANTHER, is reused when possible, and contextualised. The network is presented in the Systems Biology Graphical Notation (SBGN) standard. A community of domain experts is involved to ensure that the disease mechanisms are adequately represented.  
 
 # Pathway outline in SBGN Activity Flow: normal vs. F508del mutation
 
