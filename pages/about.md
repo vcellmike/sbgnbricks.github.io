@@ -20,10 +20,10 @@ To contribute and discuss the project please use this email address: [sbgnbricks
 
 <table>
     <tr>
-      <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AstridJunker.jpg" width="160"/></p></td>
-      <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AlexanderMazein.jpg" width="160"/></p></td>
-      <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AnatolySorokin.jpg" width="160"/></p></td>
-      <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/TobiasCzauderna.jpg" width="160"/></p></td>
+      <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AstridJunker.jpg" width="140"/></p></td>
+      <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AlexanderMazein.jpg" width="140"/></p></td>
+      <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AnatolySorokin.jpg" width="140"/></p></td>
+      <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/TobiasCzauderna.jpg" width="140"/></p></td>
     </tr>
 </table>
 <table>
