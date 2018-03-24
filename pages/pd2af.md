@@ -10,7 +10,15 @@ permalink: /pd2af/
 
 The coverter uses the concept of the SBGN Bricks and takes into account patterns of various types of inhibition.
 
-The project is led by the European Institute for Systems Biology and Medicine in collaboration with the Institute of Cell Biophysics and the Norwegian University of Science and Technology.
+The converter is written in Lisp programming language as it is well-suited for describing functional relationships in biological networks.
+
+The project is led by the European Institute for Systems Biology and Medicine in collaboration with the Institute of Cell Biophysics, the Norwegian University of Science and Technology and the Bilkent University.
+
+## Availability
+
+Online conversion: [http://pd2af.me/](http://pd2af.me/)
+
+<!-- The translation fuctuionality is implemented in Newt Editor.-->
 
 ## Contributors
 
@@ -19,15 +27,16 @@ Alexander Mazein, European Institute for Systems Biology and Medicine, Lyon, Fra
 Anatoly Sorokin, Institute of Cell Biophysics, Russian Academy of Science, Pushchino, Russia  
 Irina Balaur, European Institute for Systems Biology and Medicine, Lyon, France  
 Vasundra Toure, Norwegian University of Science and Technology (NTNU), Trondheim, Norway  
+Ugur Dogrusoz, Bilkent University, Ankara, Turkey
 Charles Auffray, European Institute for Systems Biology and Medicine, Lyon, France  
 
 ## Development
 
-Milestones...
+The planned development is planned in a stepwise manner and assumes the following milestones.
 
-### PD2AF Enhanced
+### PD2AF Basic/Enhanced Automatic 
 
-### PD2AF Semi-automatic
+### PD2AF Intermediate Semi-automatic
 
-### PD2AF Automatic
+### PD2AF Advanced Automatic
 
