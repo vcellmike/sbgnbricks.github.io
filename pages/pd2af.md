@@ -27,7 +27,7 @@ Alexander Mazein, European Institute for Systems Biology and Medicine, Lyon, Fra
 Anatoly Sorokin, Institute of Cell Biophysics, Russian Academy of Science, Pushchino, Russia  
 Irina Balaur, European Institute for Systems Biology and Medicine, Lyon, France  
 Vasundra Toure, Norwegian University of Science and Technology (NTNU), Trondheim, Norway  
-Ugur Dogrusoz, Bilkent University, Ankara, Turkey
+Ugur Dogrusoz, Bilkent University, Ankara, Turkey  
 Charles Auffray, European Institute for Systems Biology and Medicine, Lyon, France  
 
 ## Development
