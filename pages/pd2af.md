@@ -10,7 +10,9 @@ permalink: /pd2af/
 
 ## Availability
 
-Online conversion: [http://pd2af.me/](http://pd2af.me/)
+Online conversion (daily updates): [http://pd2af.me/](http://pd2af.me/)
+Stable: [http://pd2af.org/](http://pd2af.org/)
+Github: [https://github.com/prozion/pd2af](https://github.com/prozion/pd2af)
 
 <!-- The translation fuctuionality is implemented in Newt Editor.-->
 
