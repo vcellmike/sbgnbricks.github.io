@@ -4,5 +4,5 @@ title: Activity Flow
 permalink: /af/
 ---
 
-# Activity Flow bicks
+# Activity Flow Bricks
 
