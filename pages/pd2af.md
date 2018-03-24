@@ -10,7 +10,7 @@ permalink: /pd2af/
 
 The coverter uses the concept of the SBGN Bricks and takes into account patterns of various types of inhibition.
 
-The project is led by the European Institute for Systems Biology and Medicine in collaboration with...
+The project is led by the European Institute for Systems Biology and Medicine in collaboration with the Institute of Cell Biophysics and the Norwegian University of Science and Technology.
 
 ## Contributors
 
