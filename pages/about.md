@@ -16,7 +16,3 @@ Junker A, Sorokin A, Czauderna T, Schreiber F, Mazein A. Wiring diagrams in biol
 
 To contribute and discuss the project please use this email address: [sbgnbricks@googlegroups.com](mailto:sbgnbricks@googlegroups.com)  
 
-# Project team
-
-
-
