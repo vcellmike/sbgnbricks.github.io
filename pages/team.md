@@ -17,8 +17,3 @@ permalink: /team/
     </tr>
 </table>
 
-# Cystic Fibrosis Domain Experts
-
-The list is being confirmed.
-
-
