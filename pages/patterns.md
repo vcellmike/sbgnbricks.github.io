@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Patterns
-permalind: /patterns/
+permalink: /patterns/
 ---
 
 # Patterns
