@@ -6,7 +6,7 @@ permalink: /pd2af/
 
 # PD2AF Converter
 
-[PD2AF converter](http://pd2af.me/) is an open-source application designed to enable communication between the Process Description and the Activity Flow languages of the SBGN standard. The tool is built on the previously published template-based translation from PD to AF (Vogt et al., 2013, [doi: 10.1186/1752-0509-7-115](https://doi.org/10.1186/1752-0509-7-115)) implemented as a functionality of the SBGN-ED addon of the VANTED editor. The purpose of the new tool is to translate PD to AF in such a way so we can avoid using complexes in the resulting AF version and therefore be as close as possible to manually designed AF diagrams and the corresponding logical modles. The coverter uses the concept of the SBGN Bricks and takes into account patterns of various types of inhibition. The code is written in Lisp.
+[PD2AF converter](http://pd2af.me/) is an open-source application designed to enable communication between the Process Description and the Activity Flow languages of the SBGN standard. The tool is built on the previously published template-based translation from PD to AF (Vogt et al., 2013, [doi: 10.1186/1752-0509-7-115](https://doi.org/10.1186/1752-0509-7-115)) available as part of the SBGN-ED addon of the VANTED editor. The purpose of the new tool is to translate PD to AF in such a way so it is possible to can avoid using complexes in the resulting AF version and therefore be as close as possible to manually designed AF diagrams and the corresponding logical modles. The coverter uses the concept of the SBGN Bricks and additionally takes into account patterns of various types of inhibition. The code is written in Lisp.
 
 ## Availability
 
@@ -28,7 +28,7 @@ Charles Auffray, European Institute for Systems Biology and Medicine, Lyon, Fran
 
 ## Development
 
-The planned development is planned in a stepwise manner and assumes the following milestones.
+The development is planned in a stepwise manner and assumes the following milestones.
 
 ### PD2AF Basic/Enhanced Automatic 
 
