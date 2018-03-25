@@ -22,7 +22,10 @@ ModelBricks of the Virtual Cell project-->
 
 ## SBGN Bricks 2.0: what is new
 
+The changes in comparison to the previously release set of bicks (Junker et al., 2012, doi: 10.1016/j.tibtech.2012.08.003).
 
+1. Introduced different types of posttranslational modification in addition to _phosphorylation_ bricks  
+1. Added advanced patterns for various types of _inhibition_ (detailed, without using the _inhibition_ arc).
 
 ## Project Team
 
