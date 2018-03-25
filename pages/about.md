@@ -20,6 +20,10 @@ To contribute and discuss the project please use this email address: [sbgnbricks
 PD2AF Converter
 ModelBricks of the Virtual Cell project-->
 
+## SBGN Bricks 2.0: what is new
+
+
+
 ## Project Team
 
 <table>
