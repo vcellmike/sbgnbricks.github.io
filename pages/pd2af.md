@@ -28,7 +28,12 @@ Charles Auffray, European Institute for Systems Biology and Medicine, Lyon, Fran
 
 ## PD2AF 1.0
 
-Text
+The logic is based on the previous work by Vogt and coauthors (Vogt et al., 2013, [doi: 10.1186/1752-0509-7-115](https://doi.org/10.1186/1752-0509-7-115).
+
+What is new in PD2AF 1.0:
+1. The code is writen from scratch in Lisp programming language and made easily accessible on Github ([https://github.com/prozion/pd2af](https://github.com/prozion/pd2af)).
+1. Added pattern recognition for removing "intermediate" complexes.
+1. Added pattern recognition for some types of inhibition shown in details without using the _inhibition_ arc.
 
 ## Development
 
