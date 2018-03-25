@@ -18,13 +18,13 @@ Github: [https://github.com/prozion/pd2af](https://github.com/prozion/pd2af)
 
 ## Contributors
 
-Denis Shirshov, European Institute for Systems Biology and Medicine, Lyon, France  
-Alexander Mazein, European Institute for Systems Biology and Medicine, Lyon, France  
-Anatoly Sorokin, Institute of Cell Biophysics, Russian Academy of Science, Pushchino, Russia  
-Irina Balaur, European Institute for Systems Biology and Medicine, Lyon, France  
-Vasundra Touré, Norwegian University of Science and Technology, Trondheim, Norway  
-<!--Ugur Dogrusoz, Bilkent University, Ankara, Turkey  -->
-Charles Auffray, European Institute for Systems Biology and Medicine, Lyon, France  
+**Denis Shirshov**, European Institute for Systems Biology and Medicine, Lyon, France  
+**Alexander Mazein**, European Institute for Systems Biology and Medicine, Lyon, France  
+**Anatoly Sorokin**, Institute of Cell Biophysics, Russian Academy of Science, Pushchino, Russia  
+**Irina Balaur**, European Institute for Systems Biology and Medicine, Lyon, France  
+**Vasundra Touré**, Norwegian University of Science and Technology, Trondheim, Norway  
+<!--**Ugur Dogrusoz**, Bilkent University, Ankara, Turkey  -->
+**Charles Auffray**, European Institute for Systems Biology and Medicine, Lyon, France  
 
 ## PD2AF 1.0
 
