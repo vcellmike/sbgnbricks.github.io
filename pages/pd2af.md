@@ -18,24 +18,24 @@ Github: [https://github.com/prozion/pd2af](https://github.com/prozion/pd2af)
 
 ## Contributors
 
-**Denis Shirshov**, European Institute for Systems Biology and Medicine, Lyon, France  
-**Alexander Mazein**, European Institute for Systems Biology and Medicine, Lyon, France  
-**Anatoly Sorokin**, Institute of Cell Biophysics, Russian Academy of Science, Pushchino, Russia  
-**Irina Balaur**, European Institute for Systems Biology and Medicine, Lyon, France  
-**Vasundra Touré**, Norwegian University of Science and Technology, Trondheim, Norway  
-<!--**Ugur Dogrusoz**, Bilkent University, Ankara, Turkey  -->
-**Charles Auffray**, European Institute for Systems Biology and Medicine, Lyon, France  
+Denis Shirshov, European Institute for Systems Biology and Medicine, Lyon, France  
+Alexander Mazein, European Institute for Systems Biology and Medicine, Lyon, France  
+Anatoly Sorokin, Institute of Cell Biophysics, Russian Academy of Science, Pushchino, Russia  
+Irina Balaur, European Institute for Systems Biology and Medicine, Lyon, France  
+Vasundra Touré, Norwegian University of Science and Technology, Trondheim, Norway  
+<!--Ugur Dogrusoz, Bilkent University, Ankara, Turkey  -->
+Charles Auffray, European Institute for Systems Biology and Medicine, Lyon, France  
 
 ## PD2AF 1.0
 
 The implemented logic is based on the work by Vogt and coauthors (Vogt et al., 2013, [doi: 10.1186/1752-0509-7-115](https://doi.org/10.1186/1752-0509-7-115)) and further developed to minimise the number of complexes in AF version and to introduce pattern recongition fuctionalities.
 
 What is new in PD2AF 1.0:
-1. The code is writen from scratch in Lisp programming language and made easily accessible on Github ([https://github.com/prozion/pd2af](https://github.com/prozion/pd2af)).
+1. The code is writen from scratch in Lisp programming language and made easily accessible on [Github](https://github.com/prozion/pd2af).
 1. Added pattern recognition for removing "intermediate" complexes.
 1. Added pattern recognition for some types of inhibition shown in details without using the _inhibition_ arc.
 
-## Development
+## Expected development
 
 The development is planned in a stepwise manner and assumes the following milestones.
 
