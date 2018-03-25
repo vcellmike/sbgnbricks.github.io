@@ -26,13 +26,17 @@ Vasundra Touré, Norwegian University of Science and Technology, Trondheim, Norw
 <!--Ugur Dogrusoz, Bilkent University, Ankara, Turkey  -->
 Charles Auffray, European Institute for Systems Biology and Medicine, Lyon, France  
 
+## PD2AF 1.0
+
+Text
+
 ## Development
 
 The development is planned in a stepwise manner and assumes the following milestones.
 
-### PD2AF Basic/Enhanced Automatic 
+#### PD2AF Version 1 Basic/Enhanced Automatic 
 
-### PD2AF Intermediate Semi-automatic
+#### PD2AF Version 2 Intermediate Semi-automatic
 
-### PD2AF Advanced Automatic
+#### PD2AF Version 3 Advanced Automatic
 
