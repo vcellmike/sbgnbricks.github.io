@@ -24,6 +24,7 @@ Anatoly Sorokin, Institute of Cell Biophysics, Russian Academy of Science, Pushc
 Irina Balaur, European Institute for Systems Biology and Medicine, Lyon, France  
 Vasundra Touré, Norwegian University of Science and Technology, Trondheim, Norway  
 <!--Ugur Dogrusoz, Bilkent University, Ankara, Turkey  -->
+Johann Pellet, European Institute for Systems Biology and Medicine, Lyon, France
 Charles Auffray, European Institute for Systems Biology and Medicine, Lyon, France  
 
 ## PD2AF 1.0
