@@ -17,7 +17,7 @@ The changes in comparison to the previously released set of bricks:
 
 [SBGN_Bricks_V1.0.zip](https://github.com/sbgnbricks/sbgnbricks.github.io/raw/master/downloads/SBGN_Bricks_V1.0.zip)  
 
-Version of 2012, an archive of SBGN bricks in SBGN-ML format.  
+Version of 2012, an archive of SBGN bricks in SBGN-ML format: 52 bricks.
 
 Available also at [http://sbgnbricks.sourceforge.net/](http://sbgnbricks.sourceforge.net/)  
 
