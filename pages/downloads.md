@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Donwloads
-permalink: /downloads
+permalink: /downloads/
 ---
 
 # Downloads
