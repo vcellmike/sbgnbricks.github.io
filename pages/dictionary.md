@@ -29,3 +29,11 @@ Associated GO terms: [GO:0043086 negative regulation of catalytic activity](http
 ### Protein phosphorylation
 Associated GO terms: [GO:0006468 protein phosphorylation](http://amigo.geneontology.org/amigo/term/GO:0006468)
 
+<table>
+    <tr>
+    <td style="width:260px; text-align:center; font-size:90%;"><img src="../bricks/proteinphosphorylation/ProteinPosphorylation-PD01.01.png" width="205"/><br /><a href="/bricks/proteinphosphorylation/ProteinPosphorylation-PD01.01.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/bricks/proteinphosphorylation/ProteinPosphorylation-PD01.01.sbgn" target="_blank">Newt</a></td>
+    <td style="width:260px; text-align:center; font-size:90%;"><img src="../bricks/proteinphosphorylation/ProteinPosphorylation-PD01.01.png" width="205"/><br /><a href="/bricks/proteinphosphorylation/ProteinPosphorylation-PD01.01.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/bricks/proteinphosphorylation/ProteinPosphorylation-PD01.01.sbgn" target="_blank">Newt</a></td>
+    <td style="width:260px; text-align:center; font-size:90%;"><img src="../bricks/proteinphosphorylation/ProteinPosphorylation-PD01.01.png" width="205"/><br /><a href="/bricks/proteinphosphorylation/ProteinPosphorylation-PD01.01.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/bricks/proteinphosphorylation/ProteinPosphorylation-PD01.01.sbgn" target="_blank">Newt</a></td>
+    </tr>
+</table>
+
