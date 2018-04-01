@@ -36,13 +36,17 @@ What is new in PD2AF 1.0:
 1. Added pattern recognition for removing "intermediate" complexes.
 1. Added pattern recognition for some types of inhibition shown in details without using the _inhibition_ arc.
 
-## Expected development
+## Development plan
 
 The development is planned in a stepwise manner and assumes the following milestones.
 
-#### PD2AF Version 1 Basic/Enhanced Automatic 
+### PD2AF Version 1 Basic/Enhanced Automatic 
 
-#### PD2AF Version 2 Intermediate Semi-automatic
+### PD2AF Version 2 Intermediate Semi-automatic
 
-#### PD2AF Version 3 Advanced Automatic
+### PD2AF Version 3 Advanced Automatic
+
+## Translation rules
+
+
 
