@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Process Description
-permalink: /pd2/
+permalink: /pd/
 ---
 
 # Process Description Bricks
