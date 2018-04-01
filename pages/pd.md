@@ -27,29 +27,23 @@ This page presents a collection of Process Description bricks. Please note that 
 </div>
 
 <div class="parent">
-    <div class="img" style="font-size:90%; text-align:center;"><img src="../bricks/catalysis/Catalysis-PD02.01-REV-1x1.png" /><br /><a href="/bricks/catalysis/Catalysis-PD02.01-REV-1x1.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/bricks/catalysis/Catalysis-PD02.01-REV-1x1.sbgn" target="_blank">Newt</a></div>
-    <div class="text"><strong>Catalysis: reversible reaction</strong>. In case of a reversible reaction, the separation substrate vs. product is relative and each metabolite can be seen an input or an output of this reaction depending on the direction.<br /><br />
-        IMPORTANT: Note that it is not clear which direction is favoured by the catalysis. Instead of presenting it as a reversible process, it is recommended showing direct and reverse reactions, both as irreversible processes.</div>
+    <div class="img" style="font-size:90%; text-align:center;"><img src="../bricks/catalysis/Catalysis-PD01.02-IRR-2x2.png" /><br /><a href="/bricks/catalysis/Catalysis-PD01.02-IRR-2x2.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/bricks/catalysis/Catalysis-PD01.02-IRR-2x2.sbgn" target="_blank">Newt</a></div>
+    <div class="text"><strong>Catalysis: multiple substrates and products.</strong> The enzyme catalyses an irreversible metabolic process which consumes two substrates S1 and S2 and produces two products P1 and P2.</div>
 </div>
 
-    <tr>
-      <td style="width:200px; text-align:center; font-size:90%;"><img src="../bricks/catalysis/Catalysis-PD01.02-IRR-2x2.png"/> <br /> 
-          <a href="/bricks/catalysis/Catalysis-PD01.02-IRR-2x2.sbgn" target="_blank">SBGN-ML</a> &ensp; 
-          <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/bricks/catalysis/Catalysis-PD01.02-IRR-2x2.sbgn" target="_blank">Newt</a></td>
-      <td style="text-align:left;"><strong>Catalysis: multiple substrates and products.</strong> The enzyme catalyses an irreversible metabolic process which consumes two substrates S1 and S2 and produces two products P1 and P2.</td>
-    </tr>
-    <tr>
-    <td style="width:200px; text-align:center; font-size:90%;"><img src="../bricks/inhibition/Inhibition-PD01.02.png"/> <br /> 
-          <a href="/bricks/inhibition/Inhibition-PD01.02.sbgn" target="_blank">SBGN-ML</a> &ensp; 
-          <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/bricks/inhibition/Inhibition-PD01.02.sbgn" target="_blank">Newt</a></td>
-      <td style="text-align:left;"><strong>Inhibition: irreversible metabolic reaction.</strong> The inhibitor, a proteins shown with a <i>macromolecule</i> glyph, is connected to the <i>process</i> glyph by an <i>inhibition</i> arc.<br /><br />
-      IMPORTANT: Please note that inhibition arcs in Process Descrition always go to a <i>process</i> glyph and never directly to a <i>micromolecule</i> or a <i>complex</i>. Direct connections between activities are possible in the Activity Flow language.</td>
-    </tr>
-</table>
-
-<br />
+<div class="parent">
+    <div class="img" style="font-size:90%; text-align:center;"><img src="../bricks/inhibition/Inhibition-PD01.02.png" /><br /><a href="/bricks/inhibition/Inhibition-PD01.02.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/bricks/inhibition/Inhibition-PD01.02.sbgn" target="_blank">Newt</a></div>
+    <div class="text"><strong>Inhibition: irreversible metabolic reaction.</strong> The inhibitor, a proteins shown with a <i>macromolecule</i> glyph, is connected to the <i>process</i> glyph by an <i>inhibition</i> arc.<br /><br />
+      IMPORTANT: Please note that inhibition arcs in Process Descrition go to a <i>process</i> glyph and not directly to a <i>micromolecule</i> or a <i>complex</i>. Direct connections between activities are possible in the Activity Flow language.</div>
+</div>
 
 ## Signalling processes
+
+<div class="parent">
+    <div class="img" style="font-size:90%; text-align:center;"><img src="../bricks/catalysis/Catalysis-PD01.02-IRR-2x2.png" /><br /><a href="/bricks/catalysis/Catalysis-PD01.02-IRR-2x2.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/bricks/catalysis/Catalysis-PD01.02-IRR-2x2.sbgn" target="_blank">Newt</a></div>
+    <div class="text"><strong>Catalysis: multiple substrates and products.</strong> The enzyme catalyses an irreversible metabolic process which consumes two substrates S1 and S2 and produces two products P1 and P2.</div>
+</div>
+
 
 <table style="font-size:100%;">
     <tr>
