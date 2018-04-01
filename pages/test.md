@@ -14,19 +14,19 @@ Researcher</td>
 </tr>
 <tr>
 <!-- <td style="width: 105px;"><img src="AlexanderMazein.jpg"/></td> -->
-<td style="width: 200px;"><img src="../images/team/AlexanderMazein.jpg" width="160";/></td>
+<td style="width: 200px;"><img src="../images/team/AlexanderMazein.jpg" width="160"/></td>
+<td style="vertical-align: top; padding-left: 1em;"><strong>Alexander Mazein, PhD</strong><br /><strong>European Institute for Systems Biology and Medicine, France</strong><br />
+Senior Researcher</td>
+</tr>
+<tr>
+<!-- <td style="width: 105px;"><img src="AlexanderMazein.jpg" /></td> -->
+<td style="width: 200px;"><img src="../images/team/AlexanderMazein.jpg" width="160"/></td>
 <td style="vertical-align: middle; padding-left: 1em;"><strong>Alexander Mazein, PhD</strong><br /><strong>European Institute for Systems Biology and Medicine, France</strong><br />
 Senior Researcher</td>
 </tr>
 <tr>
 <!-- <td style="width: 105px;"><img src="AlexanderMazein.jpg" /></td> -->
-<td style="width: 200px;"><img src="../images/team/AlexanderMazein.jpg" /></td>
-<td style="vertical-align: middle; padding-left: 1em;"><strong>Alexander Mazein, PhD</strong><br /><strong>European Institute for Systems Biology and Medicine, France</strong><br />
-Senior Researcher</td>
-</tr>
-<tr>
-<!-- <td style="width: 105px;"><img src="AlexanderMazein.jpg" /></td> -->
-<td style="width: 200px;"><img src="../images/team/AlexanderMazein.jpg" /></td>
+<td style="width: 200px;"><img src="../images/team/AlexanderMazein.jpg" width="160"/></td>
 <td style="vertical-align: middle; padding-left: 1em;"><strong>Alexander Mazein, PhD</strong><br /><strong>European Institute for Systems Biology and Medicine, France</strong><br />
 Senior Researcher</td>
 </tr>
