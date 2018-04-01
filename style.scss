@@ -274,7 +274,6 @@ div.parent{
 div.text{ 
     vertical-align:middle;
     display:table-cell;
-    text-align:justify;
     font-size:16px;
 }
 div.parent .img{
@@ -283,7 +282,8 @@ div.parent .img{
     padding-right:5px;
 }
 div.img img{ 
-    width:200px;
+    width:250px;
+    align:center;
     vertical-align:middle;
 }
 
