@@ -15,7 +15,7 @@ This page presents a collection of Process Description bricks. Please note that 
     <div class="text"><strong>Alexander Mazein</strong><br />European Institute for Systems Biology and Medicine, Lyon, France<br />Senior Researcher, Project Coordinator</div>
 </div>
 <div class="parent">
-    <div class="img"><img src="../bricks/reaction/Reaction-PD01.01-IRR.png" /><br /> 
+    <div class="text"><img src="../bricks/reaction/Reaction-PD01.01-IRR.png" /><br /> 
           <a href="/bricks/reaction/Reaction-PD01.01-IRR.sbgn" target="_blank">SBGN-ML</a> &ensp; 
           <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/bricks/reaction/Reaction-PD01.01-IRR.sbgn" target="_blank">Newt</a></div>
     <div class="text"><strong>Irreversible reaction.</strong> The substrate and the product of the biochemical reaction are represented by <i>simple chemical</i> glyphs. The substrate is connected to the <i>process</i> glyph by a <i>consumption</i> arc and the product is connected to the process by a <i>production</i> arc.</div>
