@@ -8,7 +8,7 @@ permalink: /pd/
 
 This page presents a collection of Process Description bricks. Please note that here we show general patterns, more complex cases are possible. For example metabolic reaction can include multiple substrate and products and more than one protein or complex can catalyze a reaction.  
 
-### Metabolic processes
+## Metabolic processes
 
 <table style="font-size:100%;">
     <tr>
@@ -47,7 +47,7 @@ This page presents a collection of Process Description bricks. Please note that 
 
 <br />
 
-### Signalling processes
+## Signalling processes
 
 <table style="font-size:100%;">
     <tr>
