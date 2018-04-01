@@ -6,7 +6,7 @@ permalink: /downloads/
 
 # Downloads
 
-The resource is continuously updated. The downloads below reflect the state at the time of release as marked for each version. The most recent set of bricks is availabel at the SBGN Bricks Github website. To download the whole website click "Download ZIP". The bricks are in folder "bicks". 
+The resource is continuously updated. The downloads below reflect the state at the time of release as marked for each version. The most recent set of bricks is availabel at the [SBGN Bricks Github](https://github.com/sbgnbricks/sbgnbricks.github.io). To download the whole website click "Clone or download" and then "Download ZIP". The bricks are in folder "bicks". 
 
 ## SBGN Bricks 2.0
 
