@@ -6,6 +6,10 @@ permalink: /dictionary/
 
 # SBGN Bricks Dictionary
 
+[Metabolic reaction](#Metabolic reaction)  
+[Catalysis](#Catalysis)  
+[Protein phosphorylation](#Protein phosphorylation)  
+
 ### Metabolic reaction 
 Associated GO terms: [GO:0008152 metabolic process](http://amigo.geneontology.org/amigo/term/GO:0008152)
 
