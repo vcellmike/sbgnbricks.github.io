@@ -16,7 +16,7 @@ This page presents a collection of Process Description bricks. Please note that 
 </div>
 
 <div class="parent">
-    <div class="img" style="font-size:90%; text-align:center;"><img src="../bricks/catalysis/Catalysis-PD01.01-IRR-1x1.png" /><br /><a href="/bricks/catalysis/Catalysis-PD01.01-IRR-1x1.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/bricks/catalysis/Catalysis-PD01.01-IRR-1x1.sbgn" target="_blank">Newt</a></div>
+    <div class="img"><p style="font-size:90%; text-align:center;"><img src="../bricks/catalysis/Catalysis-PD01.01-IRR-1x1.png" /><br /><a href="/bricks/catalysis/Catalysis-PD01.01-IRR-1x1.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/bricks/catalysis/Catalysis-PD01.01-IRR-1x1.sbgn" target="_blank">Newt</a></p></div>
     <div class="text"><strong>Catalysis: irreversible reacton.</strong> The enzyme catalyses an irreversible metabolic process which consumes substrate S1 and produces product P1. The enzyme is a represented as a <i>macromolecule</i> connected to the <i>process</i> glyph by a <i>catalysis</i> arc. The substrate and the product of the biochemical reaction are represented by <i>simple chemical</i> glyphs.</div>
 </div>
 
