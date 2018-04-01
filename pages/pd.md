@@ -42,7 +42,7 @@ This page presents a collection of Process Description bricks. Please note that 
 <table>
     <tr>
     <td style="width: 205px;"><img src="../bricks/proteinphosphorylation/ProteinPosphorylation-PD01.01.png" /><br /><a href="/bricks/proteinphosphorylation/ProteinPosphorylation-PD01.01.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/bricks/proteinphosphorylation/ProteinPosphorylation-PD01.01.sbgn" target="_blank">Newt</a></td>
-    <td style="vertical-align: middle; padding-left: 1em;"><strong>Protein phosphorylation.</strong> A kinase protein catalyzes an irreversible reaction which consumes unphosphorylated protein X and ATP and produces phosphorylated protein X and ADP. Phosphorylated state is shown by "P" in the auxiliary glyph. Can also be acetilated "Ac", ubiquitinated "Ub" etc. All proteins involved are represented by <i>macromolecule</i> glyphs.</td>
+    <td style="vertical-align: middle; padding-left: 1em;"><strong>Protein phosphorylation.</strong> A kinase protein catalyzes an irreversible reaction which consumes unphosphorylated protein X and ATP and produces phosphorylated protein X and ADP. Phosphorylated state is shown by "P" in the auxiliary glyph. All proteins involved are represented by <i>macromolecule</i> glyphs.</td>
     </tr>
     <tr>
     <td style="width: 205px;"><img src="../bricks/proteinphosphorylation/ProteinPosphorylation-PD01.01.png" /><br /><a href="/bricks/proteinphosphorylation/ProteinPosphorylation-PD01.01.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/bricks/proteinphosphorylation/ProteinPosphorylation-PD01.01.sbgn" target="_blank">Newt</a></td>
@@ -56,7 +56,7 @@ This page presents a collection of Process Description bricks. Please note that 
       <td style="width:205px; text-align:center; font-size:90%;"><img src="../bricks/proteinphosphorylation/ProteinPosphorylation-PD01.01.png" width="200"/> <br /> 
           <a href="/bricks/proteinphosphorylation/ProteinPosphorylation-PD01.01.sbgn" target="_blank">SBGN-ML</a> &ensp; 
           <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/bricks/proteinphosphorylation/ProteinPosphorylation-PD01.01.sbgn" target="_blank">Newt</a></td>
-      <td style="text-align:left;"><strong>Protein phosphorylation.</strong> A kinase protein catalyzes an irreversible reaction which consumes unphosphorylated protein X and ATP and produces phosphorylated protein X and ADP. Phosphorylated state is shown by "P" in the auxiliary glyph. Can also be acetilated "Ac", ubiquitinated "Ub" etc. All proteins involved are represented by <i>macromolecule</i> glyphs.</td>
+      <td style="text-align:left;"><strong>Protein phosphorylation.</strong> A kinase protein catalyzes an irreversible reaction which consumes unphosphorylated protein X and ATP and produces phosphorylated protein X and ADP. Phosphorylated state is shown by "P" in the auxiliary glyph. All proteins involved are represented by <i>macromolecule</i> glyphs.</td>
     </tr>
     <tr>
       <td style="width:205px; text-align:center; font-size:90%;"><img src="../bricks/proteinphosphorylation/ProteinPosphorylation-PD01.02-2x2.png" width="200"/> <br /> 
