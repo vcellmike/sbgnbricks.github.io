@@ -6,6 +6,8 @@ permalink: /dictionary/
 
 # SBGN Bricks Dictionary
 
+The previous version of the dictionary is available at [http://sbgnbricks.sourceforge.net](http://sbgnbricks.sourceforge.net/sbgnbricks_dictionary.html).
+
 [Metabolic reaction](#metabolic-reaction)  
 [Catalysis](#catalysis)  
 [Protein phosphorylation](#protein-phosphorylation)  
