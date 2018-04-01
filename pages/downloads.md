@@ -15,7 +15,13 @@ The changes in comparison to the previously released set of bricks:
 
 ## SBGN Bricks 1.0
 
-[SBGN_Bricks_V1.0.zip](https://github.com/sbgnbricks/sbgnbricks.github.io/raw/master/downloads/SBGN_Bricks_V1.0.zip)  
+[SBGN_Bricks_V1.0.zip](https://github.com/sbgnbricks/sbgnbricks.github.io/raw/master/downloads/SBGN_Bricks_V1.0.zip)
+
+PD, AF and ER bricks in separate packages:  
+
+[SBGN_Bricks_V1.0_PD_Bricks.zip](https://github.com/sbgnbricks/sbgnbricks.github.io/raw/master/downloads/SBGN_Bricks_V1.0_PD_Bricks.zip)  
+[SBGN_Bricks_V1.0_AF_Bricks.zip](https://github.com/sbgnbricks/sbgnbricks.github.io/raw/master/downloads/SBGN_Bricks_V1.0_AF_Bricks.zip)  
+[SBGN_Bricks_V1.0_ER_Bricks.zip](https://github.com/sbgnbricks/sbgnbricks.github.io/raw/master/downloads/SBGN_Bricks_V1.0_ER_Bricks.zip)  
 
 Version of 2012, an archive of 35 SBGN bricks in SBGN-ML format: 15 PD bricks, 12 AF bricks and 8 ER bricks. Available also at [http://sbgnbricks.sourceforge.net/](http://sbgnbricks.sourceforge.net/).  
 
