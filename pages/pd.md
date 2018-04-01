@@ -38,7 +38,6 @@ This page presents a collection of Process Description bricks. Please note that 
 </div>
 
 ## Signalling network
-<td style="width:200px; text-align:center; font-size:90%;">
 
 <table>
     <tr>
