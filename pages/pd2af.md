@@ -40,11 +40,11 @@ What is new in PD2AF 1.0:
 
 The development is planned in a stepwise manner and assumes the following milestones.
 
-#### PD2AF Milestone #1 Enhanced Automatic - "Basic" version
+#### PD2AF Milestone #1 Basic - Automatic - "Enhanced" version
 
-#### PD2AF Milestone #2 Intermediate Semi-automatic - "Adviser" version - AF without complexes
+#### PD2AF Milestone #2 Intermediate - Semi-automatic - "Adviser" version - AF without complexes
 
-#### PD2AF Milestone #3 Advanced Automatic - "Informed guess" version - AF without complexes
+#### PD2AF Milestone #3 Advanced - Automatic - "Informed guess" version - AF without complexes
 
 ## Translation rules
 
