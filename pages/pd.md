@@ -37,7 +37,7 @@ This page presents a collection of Process Description bricks. Please note that 
       IMPORTANT: Please note that inhibition arcs in Process Descrition go to a <i>process</i> glyph and not directly to a <i>micromolecule</i> or a <i>complex</i>. Direct connections between activities are possible in the Activity Flow language.</div>
 </div>
 
-## Signalling processes
+## Signalling network
 
 <div class="parent">
     <div class="img" style="font-size:90%; text-align:center;"><img src="../bricks/catalysis/Catalysis-PD01.02-IRR-2x2.png" /><br /><a href="/bricks/catalysis/Catalysis-PD01.02-IRR-2x2.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/bricks/catalysis/Catalysis-PD01.02-IRR-2x2.sbgn" target="_blank">Newt</a></div>
