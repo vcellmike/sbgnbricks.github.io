@@ -21,6 +21,7 @@ body {
   background: $white;
   font: 16px/1.4 $helvetica;
   color: $darkGray;
+  text-align: justify;
 }
 
 .container {
@@ -267,26 +268,27 @@ footer {
 }
 
 div.parent{ 
-    display:table;
-    padding:5px; 
-    margin:5px 0; /* you can change/remove margin */
+    display: table;
+    padding: 5px; 
+    margin: 5px 0; /* you can change/remove margin */
 }
 div.text{ 
-    vertical-align:middle;
-    display:table-cell;
-    font-size:16px;
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 16px;
+    text-align: justify;
 }
 div.parent .img{
-    vertical-align:middle;
-    display:table-cell;
-    padding-right:5px;
+    vertical-align: middle;
+    display: table-cell;
+    padding-right: 5px;
 }
 div.img img{ 
-    width:200px;
-    max-width:200px;
-    align:center;
-    font-size:14px;
-    vertical-align:middle;
+    width: 200px;
+    max-width: 200px;
+    align: center;
+    font-size: 14px;
+    vertical-align: middle;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
