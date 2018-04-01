@@ -14,16 +14,16 @@ permalink: /dictionary/
 ## Metabolism
 
 ### Metabolic reaction 
-Associated GO terms: [metabolic process GO:0008152](http://amigo.geneontology.org/amigo/term/GO:0008152)
+Associated GO terms: [GO:0008152 metabolic process](http://amigo.geneontology.org/amigo/term/GO:0008152)
 
 ### Catalysis 
-Associated GO terms: [catalytic activity GO:0003824](http://amigo.geneontology.org/amigo/term/GO:0003824)
+Associated GO terms: [GO:0003824 catalytic activity](http://amigo.geneontology.org/amigo/term/GO:0003824)
 
 ### Inhibition
-Associated GO terms: [negative regulation of catalytic activity GO:0043086](http://amigo.geneontology.org/amigo/term/GO:0043086)
+Associated GO terms: [GO:0043086 negative regulation of catalytic activity](http://amigo.geneontology.org/amigo/term/GO:0043086)
 
 ## Signalling
 
 ### Protein phosphorylation
-Associated GO terms: [protein phosphorylation GO:0006468](http://amigo.geneontology.org/amigo/term/GO:0006468)
+Associated GO terms: [GO:0006468 protein phosphorylation](http://amigo.geneontology.org/amigo/term/GO:0006468)
 
