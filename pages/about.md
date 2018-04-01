@@ -45,6 +45,7 @@ ModelBricks of the Virtual Cell project-->
 <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/FalkSchreiber.jpg" width="160"/></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/DenisShirshov.jpg" width="160"/></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/NicolasLeNovere.jpg" width="160"/></p></td>
+<td style="width: 200px;"> </td>
 </tr>
 </table>
 
@@ -53,5 +54,6 @@ ModelBricks of the Virtual Cell project-->
 <td style="width: 200px;"><p style="margin:4px;"><strong>Falk Schreiber</strong></p><p style="margin:4px; line-height:100%;"><font size="2">University of Konstanz, Konstanz, Germany</font></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Denis Shirshov</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Nicolas Le Novère</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Babraham Institute, Cambridge, United Kingdom</font></p></td>
+<td style="width: 200px;"> </td>
 </tr>
 </table>
