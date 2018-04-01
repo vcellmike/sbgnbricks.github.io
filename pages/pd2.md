@@ -11,7 +11,7 @@ This page presents a collection of Process Description bricks. Please note that 
 ## Metabolic network
 
 <div class="parent">
-    <div class="img"><img src="../images/team/AlexanderMazein.jpg" alt="Alexander Mazein" /></div>
+    <div class="img"><img src="../bricks/reaction/Reaction-PD01.01-IRR.png" /></div>
     <div class="text"><strong>Alexander Mazein</strong><br />European Institute for Systems Biology and Medicine, Lyon, France<br />Senior Researcher, Project Coordinator</div>
 </div>
 <div class="parent">
