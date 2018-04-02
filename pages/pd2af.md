@@ -42,9 +42,9 @@ The development is planned in a stepwise manner and assumes the following milest
 
 #### PD2AF Milestone #1 Basic - "Enhanced" version - Automatic
 
-#### PD2AF Milestone #2 Intermediate - "Adviser" version - Semi-automatic - AF without complexes
+#### PD2AF Milestone #2 Intermediate - "Adviser" version - Semi-automatic
 
-#### PD2AF Milestone #3 Advanced - "Informed guess" version - Automatic - AF without complexes
+#### PD2AF Milestone #3 Advanced - "Informed guess" version - Automatic
 
 ## Translation rules
 
