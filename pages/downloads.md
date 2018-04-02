@@ -19,7 +19,7 @@ The changes in comparison to the previously released set of bricks:
 
 Naming bricks:  
 
-<keyword>-<bricknumber>.<variationnumber>-<optionalcomment>.sbgn  
+keyword-bricknumber.variationnumber-optionalcomment.sbgn  
 
 Variation number changes when we have the same brick but more detailes are added, for example protein phosphorylation with state variable marked as "P" vs. protein phosphorylation with state variable shown as "P@Y701".  
 
