@@ -16,18 +16,22 @@ The previous version of the dictionary is available at [http://sbgnbricks.source
 ## Metabolism
 
 ### Metabolic reaction 
+
 Associated GO terms: [GO:0008152 metabolic process](http://amigo.geneontology.org/amigo/term/GO:0008152)
 
 ### Catalysis 
+
 Associated GO terms: [GO:0003824 catalytic activity](http://amigo.geneontology.org/amigo/term/GO:0003824)
 
 ### Inhibition
+
 Associated GO terms: [GO:0043086 negative regulation of catalytic activity](http://amigo.geneontology.org/amigo/term/GO:0043086)
 
 ## Signalling
 
 ### Protein phosphorylation
-Associated GO terms: [GO:0006468 protein phosphorylation](http://amigo.geneontology.org/amigo/term/GO:0006468); [GO:0001934 positive regulation of protein phosphorylation](http://amigo.geneontology.org/amigo/term/GO:0001934)
+
+Associated GO terms: [GO:0006468 protein phosphorylation](http://amigo.geneontology.org/amigo/term/GO:0006468); [GO:0001934 positive regulation of protein phosphorylation](http://amigo.geneontology.org/amigo/term/GO:0001934); [GO:0032147 activation of protein kinase activity](http://amigo.geneontology.org/amigo/term/GO:0032147)
 
 <table>
     <tr>
@@ -37,3 +41,4 @@ Associated GO terms: [GO:0006468 protein phosphorylation](http://amigo.geneontol
     </tr>
 </table>
 
+For the AF expression the assumption is that the phosporylation leads to the activity towards another entity (not shown). A different possible situation: phosphorylation leads to protein inactivation and the _activation_ arc in AF would need to be replaced by _inhibition_.
