@@ -17,6 +17,21 @@ The changes in comparison to the previously released set of bricks:
 * Introduced different types of posttranslational modification in addition to _phosphorylation_ bricks  
 * Added advanced patterns for various types of _inhibition_ (detailed, without using the _inhibition_ arc).
 
+Naming bricks:  
+
+<keyword>-<bricknumber>.<variationnumber>-<optionalcomment>.sbgn  
+
+Variation number changes when we have the same brick but more detailes are added, for example protein phosphorylation with state variable marked as "P" vs. protein phosphorylation with state variable shown as "P@Y701".  
+
+Examples:  
+
+Catalysis-PD01.01-IRR-1x1.sbgn  
+Catalysis-PD01.02-IRR-2x2.sbgn  
+Catalysis-PD02.01-REV-1x1.sbgn  
+ProteinPhosphorylation-PD01.01.sbgn  
+ProteinPhosphorylation-AF01.01.sbgn  
+  
+
 ## SBGN Bricks 1.0
 
 [SBGN_Bricks_V1.0.zip](https://github.com/sbgnbricks/sbgnbricks.github.io/raw/master/downloads/SBGN_Bricks_V1.0.zip)
