@@ -48,7 +48,7 @@ The development is planned in a stepwise manner and assumes the following milest
 
 ## Translation rules
 
-### Protein phosphorylation
+### Protein activation by phosphorylation
 
 <table>
     <tr>
