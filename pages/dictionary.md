@@ -6,7 +6,7 @@ permalink: /dictionary/
 
 # SBGN Bricks Dictionary
 
-The previous version of the dictionary is available at [http://sbgnbricks.sourceforge.net](http://sbgnbricks.sourceforge.net/sbgnbricks_dictionary.html).
+The previous version of the dictionary is available at [http://sbgnbricks.sourceforge.net](http://sbgnbricks.sourceforge.net/sbgnbricks_dictionary.html){:target="_blank"}.
 
 [Metabolic reaction](#metabolic-reaction)  
 [Catalysis](#catalysis)  
