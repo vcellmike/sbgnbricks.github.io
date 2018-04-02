@@ -27,7 +27,7 @@ Associated GO terms: [GO:0043086 negative regulation of catalytic activity](http
 ## Signalling
 
 ### Protein phosphorylation
-Associated GO terms: [GO:0006468 protein phosphorylation](http://amigo.geneontology.org/amigo/term/GO:0006468); [GO:0001934positive regulation of protein phosphorylation](http://amigo.geneontology.org/amigo/term/GO:0001934)
+Associated GO terms: [GO:0006468 protein phosphorylation](http://amigo.geneontology.org/amigo/term/GO:0006468); [GO:0001934 positive regulation of protein phosphorylation](http://amigo.geneontology.org/amigo/term/GO:0001934)
 
 <table>
     <tr>
