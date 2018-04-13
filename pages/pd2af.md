@@ -67,3 +67,7 @@ The development is planned in a stepwise manner and assumes the following milest
     <td style="vertical-align: middle; padding-left: 1em;">Translation of the case when it is necessary to show two activities of the same protein, i.e. there are outgoing regulatory arcs from both states in PD. An example case is the  <a href="http://metabolismregulation.org/glycolysis/" target="_blank">phosphorylation of bifuntional enzyme PFK by PKA</a>.</td>
     </tr>
 </table>
+
+## Examples 
+
+Text  
