@@ -52,4 +52,12 @@ This page presents a collection of Process Description bricks. Please note that 
     <td style="width:210px; text-align:center; font-size:90%;"><img src="../bricks/proteinphosphorylation/ProteinPhosphorylation-PD01.03-2x2.png" width="205"/><br /><a href="/bricks/proteinphosphorylation/ProteinPhosphorylation-PD01.03-2x2.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/bricks/proteinphosphorylation/ProteinPhosphorylation-PD01.03-2x2.sbgn" target="_blank">Newt</a></td>
     <td style="vertical-align: middle; padding-left: 1em;"><strong>Protein phosphorylation.</strong> A kinase protein catalyzes an irreversible reaction which consumes unphosphorylated protein X and ATP and produces phosphorylated protein X and ADP. All proteins involved are represented by <i>macromolecule</i> glyphs. <i>State variable</i> auxiliary glyphs are used to indicate the phosphorylation state: "P@Y701" means "phosphorylated at tyrosine 701" (one-letter amino acid code). Instead of empty state, "@Y701" without "P" can be used to indicate the position. ATP and ADP are represented as <i>simple chemicals</i>.</td>
     </tr>
+    <tr>
+    <td style="width:210px; text-align:center; font-size:90%;"><img src="../bricks/oligomerisation/Homodimerisation-PD01.AA.png" width="205"/><br /><a href="/bricks/oligomerisation/Homodimerisation-PD01.AA.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/bricks/oligomerisation/Homodimerisation-PD01.AA.sbgn" target="_blank">Newt</a></td>
+    <td style="vertical-align: middle; padding-left: 1em;"><strong>Oligomerisation: dimerisation.</strong>The process consumes 2 <i>micromolecules</i> X and produces <i>multimer</i> X. The number - 2 monomers - is provided in the <i>unit of information</i>: N:2. The <i>consumption arc</i> has <i>cardinality</i> element showing the number of molecules consumed.</td>
+    </tr>
 </table>
+
+
+
+
