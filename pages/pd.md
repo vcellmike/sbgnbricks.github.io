@@ -54,7 +54,8 @@ This page presents a collection of Process Description bricks. Please note that 
     </tr>
     <tr>
     <td style="width:210px; text-align:center; font-size:90%;"><img src="../bricks/oligomerisation/Homodimerisation-PD01.AA.png" width="205"/><br /><a href="/bricks/oligomerisation/Homodimerisation-PD01.AA.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/bricks/oligomerisation/Homodimerisation-PD01.AA.sbgn" target="_blank">Newt</a></td>
-    <td style="vertical-align: middle; padding-left: 1em;"><strong>Oligomerisation: dimerisation.</strong>The process consumes 2 <i>micromolecules</i> X and produces <i>multimer</i> X. The number - 2 monomers - is provided in the <i>unit of information</i>: N:2. The <i>consumption arc</i> has <i>cardinality</i> element showing the number of molecules consumed.</td>
+    <td style="vertical-align: middle; padding-left: 1em;"><strong>Oligomerisation: dimerisation.</strong>The process consumes 2 <i>micromolecules</i> X and produces <i>multimer</i> X. The number - 2 monomers - is provided in the <i>unit of information</i>: N:2. The <i>consumption arc</i> has <i>cardinality</i> element showing the number of molecules consumed.<br />
+        IMPORTANT: While <i>complex association</i> glyph is used, users can choose to use the generic <i>process</i> glyph.</td>
     </tr>
 </table>
 
