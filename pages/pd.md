@@ -59,12 +59,12 @@ This page presents a collection of Process Description bricks. Please note that 
     </tr>
     <tr>
     <td style="width:210px; text-align:center; vertical-align: middle; font-size:90%;"><img src="../bricks/complexassociation/ComplexFormation-PD01.AA.png" width="205"/><br /><a href="/bricks/complexassociation/ComplexFormation-PD01.AA.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/bricks/complexassociation/ComplexFormation-PD01.AA.sbgn" target="_blank">Newt</a></td>
-    <td style="vertical-align: middle; padding-left: 1em;"><strong>Complex association.</strong>The process of homodimer formation consumes 2 <i>micromolecules</i> X and produces <i>multimer</i> X. The number - 2 monomers - is provided in the <i>unit of information</i>: "N:2". The <i>consumption arc</i> has <i>cardinality</i> element showing the number of molecules consumed.<br />
+    <td style="vertical-align: middle; padding-left: 1em;"><strong>Complex association.</strong>The process of heterodimer formation consumes 2 <i>micromolecules</i> X and Y, and produces <i>complex</i> X-Y. <br />
         <p>IMPORTANT: While the <i>association</i> glyph is used here, users can choose to use the generic <i>process</i> glyph.</p></td>
     </tr>
     <tr>
     <td style="width:210px; text-align:center; vertical-align: middle; font-size:90%;"><img src="../bricks/complexdissociation/ComplexDissociation-PD01.AA.png" width="205"/><br /><a href="/bricks/complexdissociation/ComplexDissociation-PD01.AA.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/bricks/complexdissociation/ComplexDissociation-PD01.AA.sbgn" target="_blank">Newt</a></td>
-    <td style="vertical-align: middle; padding-left: 1em;"><strong>Complex dissociation.</strong>The process of homodimer formation consumes 2 <i>micromolecules</i> X and produces <i>multimer</i> X. The number - 2 monomers - is provided in the <i>unit of information</i>: "N:2". The <i>consumption arc</i> has <i>cardinality</i> element showing the number of molecules consumed.<br />
+    <td style="vertical-align: middle; padding-left: 1em;"><strong>Complex dissociation.</strong>A complex of two <i>macromolecule</i> entities X and Y breaks down into <i>macromolecules</i> X and Y.<br />
         <p>IMPORTANT: While the <i>dissociation</i> glyph is used here, users can choose to use the generic <i>process</i> glyph.</p></td>
     </tr>
 </table>
