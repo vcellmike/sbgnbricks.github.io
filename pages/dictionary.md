@@ -45,19 +45,19 @@ For the AF expression the assumption is that the phosporylation leads to the act
 
 In a similar way other types of postranslational modifications can be expressed.
 
-Name | Label | SBO term
----
-Acetylation | Ac | SBO:0000215
-Glycosylation | G | SBO:0000217
-Hydroxylation | OH | SBO:0000233
-Methylation | Me | SBO:0000214
-Myristoylation | My | SBO:0000219
-Palmytoylation | Pa | SBO:0000218
-Phosphorylation | P | SBO:0000216
-Prenylation | Pr | SBO:0000221
-Protonation | H | SBO:0000212
-Sulfation | S | SBO:0000220
-Ubiquitination | Ub | SBO:0000224
+Name | Label | SBO term  
+--- | --- | ---  
+Acetylation | Ac | SBO:0000215  
+Glycosylation | G | SBO:0000217  
+Hydroxylation | OH | SBO:0000233  
+Methylation | Me | SBO:0000214  
+Myristoylation | My | SBO:0000219  
+Palmytoylation | Pa | SBO:0000218  
+Phosphorylation | P | SBO:0000216  
+Prenylation | Pr | SBO:0000221  
+Protonation | H | SBO:0000212  
+Sulfation | S | SBO:0000220  
+Ubiquitination | Ub | SBO:0000224  
 
 
 
