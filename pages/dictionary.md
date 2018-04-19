@@ -45,8 +45,7 @@ For the AF expression the assumption is that the phosporylation leads to the act
 
 In a similar way other types of postranslational modifications can be expressed.
 
-Name | Label | SBO term  
---- | --- | ---  
+**Name | Label | SBO term**  
 Acetylation | Ac | SBO:0000215  
 Glycosylation | G | SBO:0000217  
 Hydroxylation | OH | SBO:0000233  
