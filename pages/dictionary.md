@@ -43,9 +43,7 @@ Associated GO terms: [GO:0006468 protein phosphorylation](http://amigo.geneontol
 
 For the AF expression the assumption is that the phosporylation leads to the activity towards another entity (not shown). A different possible situation: phosphorylation leads to protein deactivation and then the _activation_ arc in AF would need to be replaced by _inhibition_ arc.
 
-In a similar way other types of postranslational modifications can be expressed.
-
-**Name** | **Label** | **SBO term**  
+In a similar way other types of postranslational modifications can be expressed:
 Acetylation | Ac | SBO:0000215  
 Glycosylation | G | SBO:0000217  
 Hydroxylation | OH | SBO:0000233  
