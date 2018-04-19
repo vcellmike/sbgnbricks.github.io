@@ -45,11 +45,11 @@ For the AF expression the assumption is that the phosporylation leads to the act
 
 In a similar way other types of postranslational modifications can be expressed:  
 
-Acetylation | &nbsp; &nbsp; Ac | &nbsp; &nbsp; SBO:0000215 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Palmytoylation | &nbsp; &nbsp; Pa | &nbsp; &nbsp; SBO:0000218  
-Glycosylation | &nbsp; &nbsp; G | &nbsp; &nbsp; SBO:0000217 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Pren ylation | &nbsp; &nbsp; Pr | &nbsp; &nbsp; SBO:0000221  
-Hydroxylation | &nbsp; &nbsp; OH | &nbsp; &nbsp; SBO:0000233 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Protonation | &nbsp; &nbsp; H | &nbsp; &nbsp; SBO:0000212  
-Methylation | &nbsp; &nbsp; Me | &nbsp; &nbsp; SBO:0000214 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sulfation | &nbsp; &nbsp; S | &nbsp; &nbsp; SBO:0000220  
-Myristoylation | &nbsp; &nbsp; My | &nbsp; &nbsp; SBO:0000219 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ubiquitination | &nbsp; &nbsp; Ub | &nbsp; &nbsp; SBO:0000224  
+Acetylation | &nbsp; &nbsp; Ac | &nbsp; &nbsp; SBO:0000215 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Palmytoylation | &nbsp; &nbsp; Pa | &nbsp; &nbsp; SBO:0000218  
+Glycosylation | &nbsp; &nbsp; G | &nbsp; &nbsp; SBO:0000217 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prenylation | &nbsp; &nbsp; Pr | &nbsp; &nbsp; SBO:0000221  
+Hydroxylation | &nbsp; &nbsp; OH | &nbsp; &nbsp; SBO:0000233 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Protonation | &nbsp; &nbsp; H | &nbsp; &nbsp; SBO:0000212  
+Methylation | &nbsp; &nbsp; Me | &nbsp; &nbsp; SBO:0000214 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sulfation | &nbsp; &nbsp; S | &nbsp; &nbsp; SBO:0000220  
+Myristoylation | &nbsp; &nbsp; My | &nbsp; &nbsp; SBO:0000219 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ubiquitination | &nbsp; &nbsp; Ub | &nbsp; &nbsp; SBO:0000224  
 
 
 
