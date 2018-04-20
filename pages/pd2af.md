@@ -8,7 +8,7 @@ permalink: /pd2af/
 
 [PD2AF converter](http://pd2af.me/) is an open-source application designed to enable communication between the Process Description and the Activity Flow languages of the SBGN standard. The PD2AF tool is built on and further develops the logic of the previously published template-based translation from PD to AF (Vogt et al., 2013, [doi: 10.1186/1752-0509-7-115](https://doi.org/10.1186/1752-0509-7-115)) which is accessible as a functionality of the SBGN-ED add-on of the VANTED editor.  
 
-The purpose of the new tool is to translate PD to AF in such a way so it is possible to avoid using complexes in the resulting AF version and therefore be as close as possible to manually designed AF diagrams and the corresponding logical models. The converter uses the concept of the SBGN Bricks and additionally detects advanced network patterns such as, for example, "hidden" inhibition, when the mechanism is shown in details and no inhibition arcs are used. 
+The purpose of the new tool is to translate PD to AF in such a way so it is possible to avoid using complexes in the resulting AF version and therefore be as close as possible to manually designed AF diagrams and the corresponding logical models. The converter uses the concept of the SBGN Bricks and additionally detects advanced network patterns such as, for example, "hidden" inhibition, when the mechanism is shown in details and no inhibition arcs are used.
 
 The code is written in Lisp.
 
@@ -70,9 +70,17 @@ The development is planned in a stepwise manner and assumes the following milest
     </tr>
 </table>
 
-## Examples 
+## Examples
 
-Text  
+<table>
+    <tr style="font-size:90%;">
+    <td style="width:220px; text-align:center; font-size:90%;"><img src="https://github.com/prozion/sbgn-resources/blob/master/special-cases/inhibition1/spec.pd.png" width="205"/></td>
+
+    <td style="width:220px; text-align:center; font-size:90%;"><img src="https://github.com/prozion/sbgn-resources/blob/master/special-cases/inhibition1/spec.pd.png" width="215"/></td>
+
+    <td style="vertical-align: middle; padding-left: 1em;">Implicit inhibition. Variant 1</td>
+    </tr>
+</table>
 
 ## Unsolved cases
 
