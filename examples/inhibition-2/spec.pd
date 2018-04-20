@@ -5,7 +5,7 @@
 (pd
 	(->file self.sbgn)
   
-  (main:compartment
+  (default:compartment
     (A macromolecule q:3-1)
 		(B0 macromolecule q:2-2)
 		(B1 macromolecule q:4-2)

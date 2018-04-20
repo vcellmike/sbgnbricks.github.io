@@ -7,7 +7,7 @@
 	(defs
 		(sample B-c macromolecule name:"B") 
 		(sample C-c macromolecule name:"С"))
-  (main:compartment
+  (default:compartment
     ; (A macromolecule q:3-1)
     (B macromolecule q:2-2)
 		(C macromolecule q:2-3)

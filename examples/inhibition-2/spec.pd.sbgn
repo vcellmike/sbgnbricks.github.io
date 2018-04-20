@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <sbgn xmlns="http://sbgn.org/libsbgn/0.2">
   <map language="process description">
-    <glyph class="compartment" id="main-3">
-      <label text="main" />
-      <bbox x="215.0" y="95.0" w="770.0" h="310.0" />
-    </glyph>
-    <glyph class="macromolecule" id="A" compartmentRef="main-3">
+    <glyph class="macromolecule" id="A">
       <label text="A" />
       <bbox x="645.0" y="125.0" w="110" h="50" />
     </glyph>
-    <glyph class="macromolecule" id="B0" compartmentRef="main-3">
+    <glyph class="macromolecule" id="B0">
       <label text="B0" />
       <bbox x="445.0" y="225.0" w="110" h="50" />
     </glyph>
-    <glyph class="macromolecule" id="B1" compartmentRef="main-3">
+    <glyph class="macromolecule" id="B1">
       <label text="B1" />
       <bbox x="845.0" y="225.0" w="110" h="50" />
     </glyph>
-    <glyph class="macromolecule" id="C0" compartmentRef="main-3">
+    <glyph class="macromolecule" id="C0">
       <label text="C0" />
       <bbox x="245.0" y="325.0" w="110" h="50" />
     </glyph>
-    <glyph class="macromolecule" id="C1" compartmentRef="main-3">
+    <glyph class="macromolecule" id="C1">
       <label text="C1" />
       <bbox x="645.0" y="325.0" w="110" h="50" />
     </glyph>
@@ -35,27 +31,27 @@
       <port id="p2-in" x="487.5" y="350.0" />
       <port id="p2-out" x="512.5" y="350.0" />
     </glyph>
-    <arc class="catalysis" id="modulation-15" source="A" target="p1">
+    <arc class="catalysis" id="modulation-14" source="A" target="p1">
       <start x="700.0" y="175.0" />
       <end x="700.0" y="242.5" />
     </arc>
-    <arc class="catalysis" id="modulation-16" source="B0" target="p2">
+    <arc class="catalysis" id="modulation-15" source="B0" target="p2">
       <start x="500.0" y="275.0" />
       <end x="500.0" y="342.5" />
     </arc>
-    <arc class="consumption" id="consumption-17" source="B0" target="p1-in">
+    <arc class="consumption" id="consumption-16" source="B0" target="p1-in">
       <start x="555.0" y="250.0" />
       <end x="687.5" y="250.0" />
     </arc>
-    <arc class="production" id="production-18" source="p1-out" target="B1">
+    <arc class="production" id="production-17" source="p1-out" target="B1">
       <start x="712.5" y="250.0" />
       <end x="845.0" y="250.0" />
     </arc>
-    <arc class="consumption" id="consumption-19" source="C0" target="p2-in">
+    <arc class="consumption" id="consumption-18" source="C0" target="p2-in">
       <start x="355.0" y="350.0" />
       <end x="487.5" y="350.0" />
     </arc>
-    <arc class="production" id="production-20" source="p2-out" target="C1">
+    <arc class="production" id="production-19" source="p2-out" target="C1">
       <start x="512.5" y="350.0" />
       <end x="645.0" y="350.0" />
     </arc>

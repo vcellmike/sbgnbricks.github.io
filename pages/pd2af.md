@@ -111,7 +111,7 @@ The development is planned in a stepwise manner and assumes the following milest
 	</tr>
 </table>
 
-#### Inhibition by complex formation
+#### Inhibition by complex formation 
 
 <table>
 	<tr style="font-size:90%;">

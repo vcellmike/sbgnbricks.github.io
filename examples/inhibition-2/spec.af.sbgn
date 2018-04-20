@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <sbgn xmlns="http://sbgn.org/libsbgn/0.2">
   <map language="activity flow">
-    <glyph class="compartment" id="main-3">
-      <label text="main" />
-      <bbox x="215.0" y="95.0" w="170.0" h="310.0" />
-    </glyph>
-    <glyph class="biological activity" id="A" compartmentRef="main-3">
+    <glyph class="biological activity" id="A">
       <label text="A" />
       <bbox x="245.0" y="125.0" w="110" h="50" />
     </glyph>
-    <glyph class="biological activity" id="B" compartmentRef="main-3">
+    <glyph class="biological activity" id="B">
       <label text="B" />
       <bbox x="245.0" y="225.0" w="110" h="50" />
     </glyph>
-    <glyph class="biological activity" id="C" compartmentRef="main-3">
+    <glyph class="biological activity" id="C">
       <label text="C" />
       <bbox x="245.0" y="325.0" w="110" h="50" />
     </glyph>
-    <arc class="negative influence" id="modulation-11" source="A" target="B">
+    <arc class="negative influence" id="modulation-10" source="A" target="B">
       <start x="300.0" y="175.0" />
       <end x="300.0" y="225.0" />
     </arc>
-    <arc class="positive influence" id="modulation-12" source="B" target="C">
+    <arc class="positive influence" id="modulation-11" source="B" target="C">
       <start x="300.0" y="275.0" />
       <end x="300.0" y="325.0" />
     </arc>
