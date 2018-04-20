@@ -88,7 +88,7 @@ The development is planned in a stepwise manner and assumes the following milest
 			<a href="../examples/inhibition-1/spec.af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/inhibition-1/spec.af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-	<tr>
+	<tr style="line-height: 3em">
 		<td colspan="2" style="text-align:center; font-size:90%;">Variant 1</td>
 	</tr>
 </table>
@@ -106,7 +106,7 @@ The development is planned in a stepwise manner and assumes the following milest
 			<a href="../examples/inhibition-2/spec.af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/inhibition-2/spec.af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-	<tr>
+	<tr style="line-height: 3em">
 		<td colspan="2" style="text-align:center; font-size:90%;">Variant 2</td>
 	</tr>
 </table>
@@ -126,7 +126,7 @@ The development is planned in a stepwise manner and assumes the following milest
 			<a href="../examples/inhibition-3/spec.af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/inhibition-3/spec.af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-	<tr>
+	<tr style="line-height: 3em">
 		<td colspan="2" style="text-align:center; font-size:90%;">Implicit inhibition by complex formation</td>
 	</tr>
 </table>
@@ -146,7 +146,7 @@ The development is planned in a stepwise manner and assumes the following milest
 			<a href="../examples/inhibition-4/spec.af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/inhibition-4/spec.af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-	<tr>
+	<tr style="line-height: 3em">
 		<td colspan="2" style="text-align:center; font-size:90%;">Two active states</td>
 	</tr>
 </table>
