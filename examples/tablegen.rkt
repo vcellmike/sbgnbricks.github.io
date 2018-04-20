@@ -39,7 +39,7 @@
       "~a~n"
       "\t</tr>~n"
       "\t<tr>~n"
-      "\t\t<td colspan=\"2\">~a</td>~n"
+      "\t\t<td colspan=\"2\" style=\"text-align:center; font-size:90%;\">~a</td>~n"
       "\t</tr>~n"
       "</table>")
       (td folder-name "pd" left-img-rows)

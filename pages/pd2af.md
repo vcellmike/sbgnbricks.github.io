@@ -89,7 +89,7 @@ The development is planned in a stepwise manner and assumes the following milest
 		</td>
 	</tr>
 	<tr>
-		<td colspan="2">Variant 1</td>
+		<td colspan="2" style="text-align:center; font-size:90%;">Variant 1</td>
 	</tr>
 </table>
 
@@ -107,7 +107,7 @@ The development is planned in a stepwise manner and assumes the following milest
 		</td>
 	</tr>
 	<tr>
-		<td colspan="2">Variant 2</td>
+		<td colspan="2" style="text-align:center; font-size:90%;">Variant 2</td>
 	</tr>
 </table>
 
@@ -127,7 +127,7 @@ The development is planned in a stepwise manner and assumes the following milest
 		</td>
 	</tr>
 	<tr>
-		<td colspan="2">Implicit inhibition by complex formation</td>
+		<td colspan="2" style="text-align:center; font-size:90%;">Implicit inhibition by complex formation</td>
 	</tr>
 </table>
 
@@ -147,7 +147,7 @@ The development is planned in a stepwise manner and assumes the following milest
 		</td>
 	</tr>
 	<tr>
-		<td colspan="2">Two active states</td>
+		<td colspan="2" style="text-align:center; font-size:90%;">Two active states</td>
 	</tr>
 </table>
 
