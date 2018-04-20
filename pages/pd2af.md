@@ -70,8 +70,7 @@ The development is planned in a stepwise manner and assumes the following milest
     </tr>
 </table>
 
-## Examples
-
+### Inhibition
 <table>
     <tr style="font-size:90%;">
     <td style="width:220px; text-align:center; font-size:90%;"><img src="../examples/inhibition-1/spec.pd.png" width="205"/></td>
@@ -111,6 +110,10 @@ The development is planned in a stepwise manner and assumes the following milest
     <td style="vertical-align: middle; padding-left: 1em;">Inhibition with two states of the same element</td>
     </tr>
 </table>
+
+## Examples
+
+
 
 ## Unsolved cases
 
