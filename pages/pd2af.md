@@ -74,21 +74,31 @@ The development is planned in a stepwise manner and assumes the following milest
 
 <table>
     <tr style="font-size:90%;">
-    <td style="width:220px; text-align:center; font-size:90%;"><img src="../examples/inhibition1/spec.pd.png" width="205"/></td>
+    <td style="width:220px; text-align:center; font-size:90%;"><img src="../examples/inhibition-1/spec.pd.png" width="205"/></td>
 
-    <td style="width:220px; text-align:center; font-size:90%;"><img src="../examples/inhibition1/spec.af.png" width="215"/></td>
+    <td style="width:220px; text-align:center; font-size:90%;"><img src="../examples/inhibition-1/spec.af.png" width="215"/></td>
 
-    <td style="vertical-align: middle; padding-left: 1em;">Implicit inhibition. Variant 1</td>
+    <td style="vertical-align: middle; padding-left: 1em;">Simple implicit inhibition. Variant 1</td>
     </tr>
 </table>
 
 <table>
     <tr style="font-size:90%;">
-    <td style="width:220px; text-align:center; font-size:90%;"><img src="../examples/inhibition2/spec.pd.png" width="205"/></td>
+    <td style="width:220px; text-align:center; font-size:90%;"><img src="../examples/inhibition-2/spec.pd.png" width="205"/></td>
 
-    <td style="width:220px; text-align:center; font-size:90%;"><img src="../examples/inhibition2/spec.af.png" width="215"/></td>
+    <td style="width:220px; text-align:center; font-size:90%;"><img src="../examples/inhibition-2/spec.af.png" width="215"/></td>
 
-    <td style="vertical-align: middle; padding-left: 1em;">Implicit inhibition. Variant 2</td>
+    <td style="vertical-align: middle; padding-left: 1em;">Simple implicit inhibition. Variant 2</td>
+    </tr>
+</table>
+
+<table>
+    <tr style="font-size:90%;">
+    <td style="width:220px; text-align:center; font-size:90%;"><img src="../examples/inhibition-3/spec.pd.png" width="205"/></td>
+
+    <td style="width:220px; text-align:center; font-size:90%;"><img src="../examples/inhibition-3/spec.af.png" width="215"/></td>
+
+    <td style="vertical-align: middle; padding-left: 1em;">Implicit inhibition by complex formation</td>
     </tr>
 </table>
 

@@ -1,0 +1,22 @@
+#lang racket
+
+(require "../../../sbgn-lisp/sbgn-form.rkt")
+
+(pd
+	(->file self.sbgn)
+	(defs
+		(sample B-c macromolecule name:"B") 
+		(sample C-c macromolecule name:"С"))
+  (main:compartment
+    ; (A macromolecule q:3-1)
+    (B macromolecule q:2-2)
+		(C macromolecule q:2-3)
+		(D1 macromolecule q:1-5)
+		(D2 macromolecule q:3-5)
+		(c1 complex [B-c C-c] q:4-3)
+		((B C) (association a1) c1)
+		(D1 (process p1) D2)
+		; (A catalysis a1)
+		(C catalysis p1)
+  )
+)
