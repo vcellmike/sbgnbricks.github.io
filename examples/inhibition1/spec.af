@@ -1,0 +1,15 @@
+#lang racket
+
+(require "../../../sbgn-lisp/sbgn-form.rkt")
+
+(af
+	(->file self.sbgn)
+
+	(main:compartment
+    (A biological-activity q:1-1)
+		(B1 biological-activity q:1-2)
+		(C1 biological-activity q:1-3)
+		(A negative-influence B1)
+		(B1 positive-influence C1)
+  )
+)

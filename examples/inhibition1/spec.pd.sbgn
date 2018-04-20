@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+  <map language="process description">
+    <glyph class="compartment" id="main-3">
+      <label text="main" />
+      <bbox x="215.0" y="95.0" w="970.0" h="310.0" />
+    </glyph>
+    <glyph class="macromolecule" id="A" compartmentRef="main-3">
+      <label text="A" />
+      <bbox x="845.0" y="125.0" w="110" h="50" />
+    </glyph>
+    <glyph class="macromolecule" id="B0" compartmentRef="main-3">
+      <label text="B0" />
+      <bbox x="645.0" y="225.0" w="110" h="50" />
+    </glyph>
+    <glyph class="macromolecule" id="B1" compartmentRef="main-3">
+      <label text="B1" />
+      <bbox x="445.0" y="225.0" w="110" h="50" />
+    </glyph>
+    <glyph class="macromolecule" id="B2" compartmentRef="main-3">
+      <label text="B2" />
+      <bbox x="1045.0" y="225.0" w="110" h="50" />
+    </glyph>
+    <glyph class="macromolecule" id="C0" compartmentRef="main-3">
+      <label text="C0" />
+      <bbox x="245.0" y="325.0" w="110" h="50" />
+    </glyph>
+    <glyph class="macromolecule" id="C1" compartmentRef="main-3">
+      <label text="C1" />
+      <bbox x="645.0" y="325.0" w="110" h="50" />
+    </glyph>
+    <glyph class="process" id="p1">
+      <bbox x="592.5" y="242.5" w="15" h="15" />
+      <port id="p1-in" x="612.5" y="250.0" />
+      <port id="p1-out" x="587.5" y="250.0" />
+    </glyph>
+    <glyph class="process" id="p2">
+      <bbox x="892.5" y="242.5" w="15" h="15" />
+      <port id="p2-in" x="887.5" y="250.0" />
+      <port id="p2-out" x="912.5" y="250.0" />
+    </glyph>
+    <glyph class="process" id="p3">
+      <bbox x="492.5" y="342.5" w="15" h="15" />
+      <port id="p3-in" x="487.5" y="350.0" />
+      <port id="p3-out" x="512.5" y="350.0" />
+    </glyph>
+    <arc class="catalysis" id="modulation-17" source="A" target="p2">
+      <start x="900.0" y="175.0" />
+      <end x="900.0" y="242.5" />
+    </arc>
+    <arc class="catalysis" id="modulation-18" source="B1" target="p3">
+      <start x="500.0" y="275.0" />
+      <end x="500.0" y="342.5" />
+    </arc>
+    <arc class="consumption" id="consumption-19" source="B0" target="p1-in">
+      <start x="645.0" y="250.0" />
+      <end x="612.5" y="250.0" />
+    </arc>
+    <arc class="production" id="production-20" source="p1-out" target="B1">
+      <start x="587.5" y="250.0" />
+      <end x="555.0" y="250.0" />
+    </arc>
+    <arc class="consumption" id="consumption-21" source="B0" target="p2-in">
+      <start x="755.0" y="250.0" />
+      <end x="887.5" y="250.0" />
+    </arc>
+    <arc class="production" id="production-22" source="p2-out" target="B2">
+      <start x="912.5" y="250.0" />
+      <end x="1045.0" y="250.0" />
+    </arc>
+    <arc class="consumption" id="consumption-23" source="C0" target="p3-in">
+      <start x="355.0" y="350.0" />
+      <end x="487.5" y="350.0" />
+    </arc>
+    <arc class="production" id="production-24" source="p3-out" target="C1">
+      <start x="512.5" y="350.0" />
+      <end x="645.0" y="350.0" />
+    </arc>
+  </map>
+</sbgn>
