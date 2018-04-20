@@ -6,10 +6,10 @@
 	(->file self.sbgn)
   
   (default:compartment
-    (A macromolecule q:4-1)
-		(B0 macromolecule q:3-2)
+    (A macromolecule q:5-1)
+		(B0 macromolecule q:4-2)
 		(B1 macromolecule q:2-2)
-		(B2 macromolecule q:5-2)
+		(B2 macromolecule q:6-2)
 		(C0 macromolecule q:1-3)
 		(C1 macromolecule q:3-3)
 		(A catalysis p2)

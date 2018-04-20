@@ -3,74 +3,74 @@
   <map language="process description">
     <glyph class="macromolecule" id="A">
       <label text="A" />
-      <bbox x="845.0" y="125.0" w="110" h="50" />
+      <bbox x="545.0" y="125.0" w="110" h="50" />
     </glyph>
     <glyph class="macromolecule" id="B0">
       <label text="B0" />
-      <bbox x="645.0" y="225.0" w="110" h="50" />
+      <bbox x="445.0" y="225.0" w="110" h="50" />
     </glyph>
     <glyph class="macromolecule" id="B1">
       <label text="B1" />
-      <bbox x="445.0" y="225.0" w="110" h="50" />
+      <bbox x="245.0" y="225.0" w="110" h="50" />
     </glyph>
     <glyph class="macromolecule" id="B2">
       <label text="B2" />
-      <bbox x="1045.0" y="225.0" w="110" h="50" />
+      <bbox x="645.0" y="225.0" w="110" h="50" />
     </glyph>
     <glyph class="macromolecule" id="C0">
       <label text="C0" />
-      <bbox x="245.0" y="325.0" w="110" h="50" />
+      <bbox x="145.0" y="325.0" w="110" h="50" />
     </glyph>
     <glyph class="macromolecule" id="C1">
       <label text="C1" />
-      <bbox x="645.0" y="325.0" w="110" h="50" />
+      <bbox x="345.0" y="325.0" w="110" h="50" />
     </glyph>
     <glyph class="process" id="p1">
-      <bbox x="592.5" y="242.5" w="15" h="15" />
-      <port id="p1-in" x="612.5" y="250.0" />
-      <port id="p1-out" x="587.5" y="250.0" />
+      <bbox x="392.5" y="242.5" w="15" h="15" />
+      <port id="p1-in" x="412.5" y="250.0" />
+      <port id="p1-out" x="387.5" y="250.0" />
     </glyph>
     <glyph class="process" id="p2">
-      <bbox x="892.5" y="242.5" w="15" h="15" />
-      <port id="p2-in" x="887.5" y="250.0" />
-      <port id="p2-out" x="912.5" y="250.0" />
+      <bbox x="592.5" y="242.5" w="15" h="15" />
+      <port id="p2-in" x="587.5" y="250.0" />
+      <port id="p2-out" x="612.5" y="250.0" />
     </glyph>
     <glyph class="process" id="p3">
-      <bbox x="492.5" y="342.5" w="15" h="15" />
-      <port id="p3-in" x="487.5" y="350.0" />
-      <port id="p3-out" x="512.5" y="350.0" />
+      <bbox x="292.5" y="342.5" w="15" h="15" />
+      <port id="p3-in" x="287.5" y="350.0" />
+      <port id="p3-out" x="312.5" y="350.0" />
     </glyph>
     <arc class="catalysis" id="modulation-16" source="A" target="p2">
-      <start x="900.0" y="175.0" />
-      <end x="900.0" y="242.5" />
+      <start x="600.0" y="175.0" />
+      <end x="600.0" y="242.5" />
     </arc>
     <arc class="catalysis" id="modulation-17" source="B1" target="p3">
-      <start x="500.0" y="275.0" />
-      <end x="500.0" y="342.5" />
+      <start x="300.0" y="275.0" />
+      <end x="300.0" y="342.5" />
     </arc>
     <arc class="consumption" id="consumption-18" source="B0" target="p1-in">
-      <start x="645.0" y="250.0" />
-      <end x="612.5" y="250.0" />
+      <start x="445.0" y="250.0" />
+      <end x="412.5" y="250.0" />
     </arc>
     <arc class="production" id="production-19" source="p1-out" target="B1">
-      <start x="587.5" y="250.0" />
-      <end x="555.0" y="250.0" />
+      <start x="387.5" y="250.0" />
+      <end x="355.0" y="250.0" />
     </arc>
     <arc class="consumption" id="consumption-20" source="B0" target="p2-in">
-      <start x="755.0" y="250.0" />
-      <end x="887.5" y="250.0" />
+      <start x="555.0" y="250.0" />
+      <end x="587.5" y="250.0" />
     </arc>
     <arc class="production" id="production-21" source="p2-out" target="B2">
-      <start x="912.5" y="250.0" />
-      <end x="1045.0" y="250.0" />
+      <start x="612.5" y="250.0" />
+      <end x="645.0" y="250.0" />
     </arc>
     <arc class="consumption" id="consumption-22" source="C0" target="p3-in">
-      <start x="355.0" y="350.0" />
-      <end x="487.5" y="350.0" />
+      <start x="255.0" y="350.0" />
+      <end x="287.5" y="350.0" />
     </arc>
     <arc class="production" id="production-23" source="p3-out" target="C1">
-      <start x="512.5" y="350.0" />
-      <end x="645.0" y="350.0" />
+      <start x="312.5" y="350.0" />
+      <end x="345.0" y="350.0" />
     </arc>
   </map>
 </sbgn>
