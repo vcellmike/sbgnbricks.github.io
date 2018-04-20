@@ -73,9 +73,9 @@ The development is planned in a stepwise manner and assumes the following milest
 ### Inhibition
 <table>
     <tr style="font-size:90%;">
-    <td style="width:220px; text-align:center; font-size:90%;"><img src="../examples/inhibition-1/spec.pd.png" width="205"/></td>
+    <td style="width:220px; text-align:center; font-size:90%;"><img src="../examples/inhibition-1/spec.pd.png" width="220"/></td>
 
-    <td style="width:220px; text-align:center; font-size:90%;"><img src="../examples/inhibition-1/spec.af.png" width="215"/></td>
+    <td style="width:220px; text-align:center; font-size:90%;"><img src="../examples/inhibition-1/spec.af.png" width="100"/></td>
 
     <td style="vertical-align: middle; padding-left: 1em;">Simple implicit inhibition. Variant 1</td>
     </tr>
