@@ -82,6 +82,16 @@ The development is planned in a stepwise manner and assumes the following milest
     </tr>
 </table>
 
+<table>
+    <tr style="font-size:90%;">
+    <td style="width:220px; text-align:center; font-size:90%;"><img src="../examples/inhibition2/spec.pd.png" width="205"/></td>
+
+    <td style="width:220px; text-align:center; font-size:90%;"><img src="../examples/inhibition2/spec.af.png" width="215"/></td>
+
+    <td style="vertical-align: middle; padding-left: 1em;">Implicit inhibition. Variant 2</td>
+    </tr>
+</table>
+
 ## Unsolved cases
 
 Text
