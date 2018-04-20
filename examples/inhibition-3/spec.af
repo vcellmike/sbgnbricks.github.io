@@ -7,8 +7,8 @@
 
 	(main:compartment
 		(B biological-activity q:1-1)
-		(C biological-activity q:1-2)
-		(D biological-activity q:1-3)
+		(C biological-activity q:1-3)
+		(D biological-activity q:1-5)
 		(B negative-influence C)
 		(C positive-influence D)
   )

@@ -9,19 +9,19 @@
       <label text="A" />
       <bbox x="245.0" y="125.0" w="110" h="50" />
     </glyph>
-    <glyph class="biological activity" id="B0" compartmentRef="main-3">
-      <label text="B0" />
+    <glyph class="biological activity" id="B" compartmentRef="main-3">
+      <label text="B" />
       <bbox x="245.0" y="225.0" w="110" h="50" />
     </glyph>
-    <glyph class="biological activity" id="C1" compartmentRef="main-3">
-      <label text="C1" />
+    <glyph class="biological activity" id="C" compartmentRef="main-3">
+      <label text="C" />
       <bbox x="245.0" y="325.0" w="110" h="50" />
     </glyph>
-    <arc class="negative influence" id="modulation-11" source="A" target="B0">
+    <arc class="negative influence" id="modulation-11" source="A" target="B">
       <start x="300.0" y="175.0" />
       <end x="300.0" y="225.0" />
     </arc>
-    <arc class="positive influence" id="modulation-12" source="B0" target="C1">
+    <arc class="positive influence" id="modulation-12" source="B" target="C">
       <start x="300.0" y="275.0" />
       <end x="300.0" y="325.0" />
     </arc>

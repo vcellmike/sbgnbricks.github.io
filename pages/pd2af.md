@@ -71,49 +71,90 @@ The development is planned in a stepwise manner and assumes the following milest
 </table>
 
 ### Inhibition
+<!-- TODO: add link to SBGN-ML -->
+
+#### Simple implicit inhibition
+
 <table>
-    <tr style="font-size:90%;">
-    <td style="width:220px; text-align:center; font-size:90%;"><img src="../examples/inhibition-1/spec.pd.png" width="220"/></td>
-
-    <td style="width:220px; text-align:center; font-size:90%;"><img src="../examples/inhibition-1/spec.af.png" width="100"/></td>
-
-    <td style="vertical-align: middle; padding-left: 1em;">Simple implicit inhibition. Variant 1</td>
-    </tr>
+	<tr style="font-size:90%;">
+		<td style="text-align:center; font-size:90%;">
+			<img src="../examples/inhibition-1/spec.pd.png" height="210"/>
+			<br />
+			<a href="../examples/inhibition-1/spec.pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/inhibition-1/spec.pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="text-align:center; font-size:90%;">
+			<img src="../examples/inhibition-1/spec.af.png" height="210"/>
+			<br />
+			<a href="../examples/inhibition-1/spec.af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/inhibition-1/spec.af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">Variant 1</td>
+	</tr>
 </table>
 
 <table>
-    <tr style="font-size:90%;">
-    <td style="width:220px; text-align:center; font-size:90%;"><img src="../examples/inhibition-2/spec.pd.png" width="205"/></td>
-
-    <td style="width:220px; text-align:center; font-size:90%;"><img src="../examples/inhibition-2/spec.af.png" width="215"/></td>
-
-    <td style="vertical-align: middle; padding-left: 1em;">Simple implicit inhibition. Variant 2</td>
-    </tr>
+	<tr style="font-size:90%;">
+		<td style="text-align:center; font-size:90%;">
+			<img src="../examples/inhibition-2/spec.pd.png" height="210"/>
+			<br />
+			<a href="../examples/inhibition-2/spec.pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/inhibition-2/spec.pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="text-align:center; font-size:90%;">
+			<img src="../examples/inhibition-2/spec.af.png" height="210"/>
+			<br />
+			<a href="../examples/inhibition-2/spec.af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/inhibition-2/spec.af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">Variant 2</td>
+	</tr>
 </table>
 
+#### Inhibition by complex formation
+
 <table>
-    <tr style="font-size:90%;">
-    <td style="width:220px; text-align:center; font-size:90%;"><img src="../examples/inhibition-3/spec.pd.png" width="205"/></td>
-
-    <td style="width:220px; text-align:center; font-size:90%;"><img src="../examples/inhibition-3/spec.af.png" width="215"/></td>
-
-    <td style="vertical-align: middle; padding-left: 1em;">Implicit inhibition by complex formation</td>
-    </tr>
+	<tr style="font-size:90%;">
+		<td style="text-align:center; font-size:90%;">
+			<img src="../examples/inhibition-3/spec.pd.png" height="350"/>
+			<br />
+			<a href="../examples/inhibition-3/spec.pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/inhibition-3/spec.pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="text-align:center; font-size:90%;">
+			<img src="../examples/inhibition-3/spec.af.png" height="350"/>
+			<br />
+			<a href="../examples/inhibition-3/spec.af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/inhibition-3/spec.af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">Implicit inhibition by complex formation</td>
+	</tr>
 </table>
 
+
+#### Multiple active states for the same element
 <table>
-    <tr style="font-size:90%;">
-    <td style="width:220px; text-align:center; font-size:90%;"><img src="../examples/inhibition-4/spec.pd.png" width="205"/></td>
-
-    <td style="width:220px; text-align:center; font-size:90%;"><img src="../examples/inhibition-4/spec.af.png" width="215"/></td>
-
-    <td style="vertical-align: middle; padding-left: 1em;">Inhibition with two states of the same element</td>
-    </tr>
+	<tr style="font-size:90%;">
+		<td style="text-align:center; font-size:90%;">
+			<img src="../examples/inhibition-4/spec.pd.png" height="350"/>
+			<br />
+			<a href="../examples/inhibition-4/spec.pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/inhibition-4/spec.pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="text-align:center; font-size:90%;">
+			<img src="../examples/inhibition-4/spec.af.png" height="350"/>
+			<br />
+			<a href="../examples/inhibition-4/spec.af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/inhibition-4/spec.af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">Two active states</td>
+	</tr>
 </table>
 
 ## Examples
 
-
+## Comparison
+<!-- TODO: add some comparisons to translation in SBGN-ED -->
 
 ## Unsolved cases
 
