@@ -111,17 +111,17 @@ The development is planned in a stepwise manner and assumes the following milest
 	</tr>
 </table>
 
-#### Inhibition by complex formation 
+#### Inhibition by complex formation
 
 <table>
 	<tr style="font-size:90%;">
 		<td style="text-align:center; font-size:90%;">
-			<img src="../examples/inhibition-3/spec.pd.png" height="350"/>
+			<img src="../examples/inhibition-3/spec.pd.png" height="280"/>
 			<br />
 			<a href="../examples/inhibition-3/spec.pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/inhibition-3/spec.pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="text-align:center; font-size:90%;">
-			<img src="../examples/inhibition-3/spec.af.png" height="350"/>
+			<img src="../examples/inhibition-3/spec.af.png" height="210"/>
 			<br />
 			<a href="../examples/inhibition-3/spec.af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/inhibition-3/spec.af.sbgn" target="_blank">Newt</a>
 		</td>

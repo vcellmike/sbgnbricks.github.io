@@ -3,23 +3,23 @@
   <map language="activity flow">
     <glyph class="biological activity" id="B">
       <label text="B" />
-      <bbox x="245.0" y="125.0" w="110" h="50" />
+      <bbox x="145.0" y="125.0" w="110" h="50" />
     </glyph>
     <glyph class="biological activity" id="C">
       <label text="C" />
-      <bbox x="245.0" y="325.0" w="110" h="50" />
+      <bbox x="145.0" y="225.0" w="110" h="50" />
     </glyph>
     <glyph class="biological activity" id="D">
       <label text="D" />
-      <bbox x="245.0" y="525.0" w="110" h="50" />
+      <bbox x="145.0" y="325.0" w="110" h="50" />
     </glyph>
     <arc class="negative influence" id="modulation-10" source="B" target="C">
-      <start x="300.0" y="175.0" />
-      <end x="300.0" y="325.0" />
+      <start x="200.0" y="175.0" />
+      <end x="200.0" y="225.0" />
     </arc>
     <arc class="positive influence" id="modulation-11" source="C" target="D">
-      <start x="300.0" y="375.0" />
-      <end x="300.0" y="525.0" />
+      <start x="200.0" y="275.0" />
+      <end x="200.0" y="325.0" />
     </arc>
   </map>
 </sbgn>

@@ -47,4 +47,4 @@
       description
   ))
 
-(write-file "table.html" (generate-table "inhibition-4" 5 5))
+(write-file "table.html" (generate-table "inhibition-3" 4 3))
