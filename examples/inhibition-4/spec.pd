@@ -1,0 +1,21 @@
+#lang racket
+
+(require "../../../sbgn-lisp/sbgn-form.rkt")
+
+(pd
+	(->file self.sbgn)
+	
+  (main:compartment
+    (A macromolecule q:1-3)
+    (B1 macromolecule q:2-2)
+    (B2 macromolecule q:2-4)
+		(s1 simple-chemical q:3-1)
+		(s2 simple-chemical q:3-5)
+		(B1 (process p1) B2)
+		(s1 (process p2) s2)
+		(s2 (process p3) s1)
+		(A catalysis p1)
+		(B1 catalysis p2)
+		(B2 catalysis p3)
+  )
+)

@@ -102,6 +102,16 @@ The development is planned in a stepwise manner and assumes the following milest
     </tr>
 </table>
 
+<table>
+    <tr style="font-size:90%;">
+    <td style="width:220px; text-align:center; font-size:90%;"><img src="../examples/inhibition-4/spec.pd.png" width="205"/></td>
+
+    <td style="width:220px; text-align:center; font-size:90%;"><img src="../examples/inhibition-4/spec.af.png" width="215"/></td>
+
+    <td style="vertical-align: middle; padding-left: 1em;">Inhibition with two states of the same element</td>
+    </tr>
+</table>
+
 ## Unsolved cases
 
 Text
