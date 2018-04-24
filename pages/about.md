@@ -42,10 +42,10 @@ ModelBricks of the Virtual Cell project-->
 
 <table>
 <tr>
-<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/FalkSchreiber.jpg" width="160"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/DenisShirshov.jpg" width="160"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/NicolasLeNovere.jpg" width="160"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/MichaelBlinov.jpg" width="160"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/FalkSchreiber.jpg" width="160"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/DenisShirshov.jpg" width="160"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/NicolasLeNovere.jpg" width="160"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/MichaelBlinov.jpg" width="160"/></p></td>
 </tr>
 </table>
 
@@ -60,10 +60,10 @@ ModelBricks of the Virtual Cell project-->
 
 <table>
 <tr>
-<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/EmekDemir.jpg" width="160"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/GaryBader.jpg" width="160"/></p></td>
-<td style="width: 200px;"> </td>
-<td style="width: 200px;"> </td>
+<td style="width: 200px;"><br /><p style="margin:4px;"><img src="/images/team/EmekDemir.jpg" width="160"/></p></td>
+<td style="width: 200px;"><br /><p style="margin:4px;"><img src="/images/team/GaryBader.jpg" width="160"/></p></td>
+<td style="width: 200px;"><br /> </td>
+<td style="width: 200px;"><br /> </td>
 </tr>
 </table>
 
