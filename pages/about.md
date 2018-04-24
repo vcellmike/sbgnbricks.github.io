@@ -63,7 +63,7 @@ ModelBricks of the Virtual Cell project-->
 <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/EmekDemir.jpg" width="160"/></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/GaryBader.jpg" width="160"/></p></td>
 <td style="width: 200px;"> </td>
-<td style="width: 200px;"> </p></td>
+<td style="width: 200px;"> </td>
 </tr>
 </table>
 
