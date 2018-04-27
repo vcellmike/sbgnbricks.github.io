@@ -26,7 +26,7 @@ Denis Shirshov, European Institute for Systems Biology and Medicine, Lyon, Franc
 Alexander Mazein, European Institute for Systems Biology and Medicine, Lyon, France  
 Anatoly Sorokin, Institute of Cell Biophysics, Russian Academy of Science, Pushchino, Russia  
 Irina Balaur, European Institute for Systems Biology and Medicine, Lyon, France  
-Vasundra Touré, Norwegian University of Science and Technology, Trondheim, Norway  
+<!--Vasundra Touré, Norwegian University of Science and Technology, Trondheim, Norway  -->
 <!--Ugur Dogrusoz, Bilkent University, Ankara, Turkey  -->
 Johann Pellet, European Institute for Systems Biology and Medicine, Lyon, France  
 Charles Auffray, European Institute for Systems Biology and Medicine, Lyon, France  
