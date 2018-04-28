@@ -83,7 +83,7 @@ The development is planned in a stepwise manner and assumes the following milest
 			<a href="../examples/inhibition-1/spec.pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/inhibition-1/spec.pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="text-align:center; font-size:90%;">
-			<img src="../examples/inhibition-1/spec.af.png" height="210"/>
+			<img src="../examples/inhibition-1/spec.af.png" width="77"/>
 			<br />
 			<a href="../examples/inhibition-1/spec.af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/inhibition-1/spec.af.sbgn" target="_blank">Newt</a>
 		</td>
