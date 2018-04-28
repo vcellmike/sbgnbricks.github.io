@@ -73,7 +73,7 @@ The development is planned in a stepwise manner and assumes the following milest
 ### Advanced patterns: "hidden" inhibition
 <!-- TODO: add link to SBGN-ML -->
 
-#### Inhibition pattern 1
+#### Inhibition pattern 1: inhibition by activation of a competitive process
 
 Condition: the macromolecule B in states B0 and B2 do not have outgoing regulatory links (are not active).
 
