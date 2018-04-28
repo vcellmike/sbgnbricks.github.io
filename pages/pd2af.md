@@ -70,10 +70,12 @@ The development is planned in a stepwise manner and assumes the following milest
     </tr>
 </table>
 
-### Inhibition
+### Advanced patterns: "hidden" inhibition
 <!-- TODO: add link to SBGN-ML -->
 
-#### Simple implicit inhibition
+#### Inhibition pattern 1
+
+Condition: the macromolecule B in states B0 and B2 do not have outgoing regulatory links (are not active).
 
 <table>
 	<tr style="font-size:90%;">
