@@ -24,6 +24,23 @@
 <div class="pattern_section">
 <h2>simple control</h2>
 
+<h4>simple_negative_control</h4><table>
+	<tr style="font-size:90%;">
+		<td style="text-align:center; font-size:90%;">
+			<img src="../examples/simple_control/simple_negative_control/pd.png" height="210"/>
+			<br />
+			<a href="../examples/simple_control/simple_negative_control/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/simple_control/simple_negative_control/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="text-align:center; font-size:90%;">
+			<img src="../examples/simple_control/simple_negative_control/af.png" height="210"/>
+			<br />
+			<a href="../examples/simple_control/simple_negative_control/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/simple_control/simple_negative_control/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+	<tr style="line-height: 3em">
+		<td colspan="2" style="text-align:center; font-size:90%;">A inhibits a reaction of modification B to C, while B participates only in this reaction</td>
+	</tr>
+</table>
 <h4>simple_positive_control</h4><table>
 	<tr style="font-size:90%;">
 		<td style="text-align:center; font-size:90%;">

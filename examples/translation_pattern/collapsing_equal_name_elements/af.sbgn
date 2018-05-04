@@ -13,11 +13,11 @@
       <label text="D" />
       <bbox x="360.0" y="230.0" w="80" h="40" />
     </glyph>
-    <arc class="positive influence" id="modulation-118" source="A" target="C">
+    <arc class="positive influence" id="modulation-134" source="A" target="C">
       <start x="300.0" y="170.0" />
       <end x="200.0" y="230.0" />
     </arc>
-    <arc class="positive influence" id="modulation-119" source="A" target="D">
+    <arc class="positive influence" id="modulation-135" source="A" target="D">
       <start x="300.0" y="170.0" />
       <end x="400.0" y="230.0" />
     </arc>
