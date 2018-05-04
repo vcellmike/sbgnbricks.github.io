@@ -22,6 +22,28 @@
 </div>
 
 <div class="pattern_section">
+<h2>simple control</h2>
+
+<h4>simple_positive_control</h4><table>
+	<tr style="font-size:90%;">
+		<td style="text-align:center; font-size:90%;">
+			<img src="../examples/simple_control/simple_positive_control/pd.png" height="210"/>
+			<br />
+			<a href="../examples/simple_control/simple_positive_control/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/simple_control/simple_positive_control/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="text-align:center; font-size:90%;">
+			<img src="../examples/simple_control/simple_positive_control/af.png" height="210"/>
+			<br />
+			<a href="../examples/simple_control/simple_positive_control/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/simple_control/simple_positive_control/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+	<tr style="line-height: 3em">
+		<td colspan="2" style="text-align:center; font-size:90%;">A stimulates a reaction of modification B to C, while B participates only in this reaction</td>
+	</tr>
+</table>
+</div>
+
+<div class="pattern_section">
 <h2>translation pattern</h2>
 
 <h4>process_is_a_positive_influence</h4><table>
@@ -39,6 +61,23 @@
 	</tr>
 	<tr style="line-height: 3em">
 		<td colspan="2" style="text-align:center; font-size:90%;">Plain process without enzyme regulation is translated as a positive-influence</td>
+	</tr>
+</table>
+<h4>self_stimulation</h4><table>
+	<tr style="font-size:90%;">
+		<td style="text-align:center; font-size:90%;">
+			<img src="../examples/translation_pattern/self_stimulation/pd.png" height="210"/>
+			<br />
+			<a href="../examples/translation_pattern/self_stimulation/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/translation_pattern/self_stimulation/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="text-align:center; font-size:90%;">
+			<img src="../examples/translation_pattern/self_stimulation/af.png" height="210"/>
+			<br />
+			<a href="../examples/translation_pattern/self_stimulation/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/translation_pattern/self_stimulation/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+	<tr style="line-height: 3em">
+		<td colspan="2" style="text-align:center; font-size:90%;">If some element controls reaction it also takes part as a substrate (self-stimulation or self-inhibition), then this control is not translated into a self-influence on AF diagram</td>
 	</tr>
 </table>
 <h4>collapsing_equal_name_elements</h4><table>
