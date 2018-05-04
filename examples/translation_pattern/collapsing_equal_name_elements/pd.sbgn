@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+  <map language="process description">
+    <glyph class="macromolecule" id="A1">
+      <label text="A1" />
+      <bbox x="260.0" y="130.0" w="80" h="40" />
+    </glyph>
+    <glyph class="macromolecule" id="A2">
+      <label text="A2" />
+      <bbox x="460.0" y="130.0" w="80" h="40" />
+    </glyph>
+    <glyph class="macromolecule" id="A3">
+      <label text="A3" />
+      <bbox x="660.0" y="130.0" w="80" h="40" />
+    </glyph>
+    <glyph class="macromolecule" id="B">
+      <label text="B" />
+      <bbox x="160.0" y="230.0" w="80" h="40" />
+    </glyph>
+    <glyph class="macromolecule" id="C">
+      <label text="C" />
+      <bbox x="360.0" y="230.0" w="80" h="40" />
+    </glyph>
+    <glyph class="macromolecule" id="D">
+      <label text="D" />
+      <bbox x="560.0" y="230.0" w="80" h="40" />
+    </glyph>
+    <glyph class="macromolecule" id="E">
+      <label text="E" />
+      <bbox x="760.0" y="230.0" w="80" h="40" />
+    </glyph>
+    <glyph class="process" id="multiarc-52">
+      <bbox x="390.0" y="140.0" w="20" h="20" />
+      <port id="multiarc-52-in" x="385.0" y="150.0" />
+      <port id="multiarc-52-out" x="415.0" y="150.0" />
+    </glyph>
+    <glyph class="process" id="multiarc-55">
+      <bbox x="590.0" y="140.0" w="20" h="20" />
+      <port id="multiarc-55-in" x="585.0" y="150.0" />
+      <port id="multiarc-55-out" x="615.0" y="150.0" />
+    </glyph>
+    <glyph class="process" id="p1">
+      <bbox x="290.0" y="240.0" w="20" h="20" />
+      <port id="p1-in" x="285.0" y="250.0" />
+      <port id="p1-out" x="315.0" y="250.0" />
+    </glyph>
+    <glyph class="process" id="p2">
+      <bbox x="690.0" y="240.0" w="20" h="20" />
+      <port id="p2-in" x="685.0" y="250.0" />
+      <port id="p2-out" x="715.0" y="250.0" />
+    </glyph>
+    <arc class="consumption" id="consumption-68" source="A1" target="multiarc-52-in">
+      <start x="340.0" y="150.0" />
+      <end x="385.0" y="150.0" />
+    </arc>
+    <arc class="production" id="production-69" source="multiarc-52-out" target="A2">
+      <start x="415.0" y="150.0" />
+      <end x="460.0" y="150.0" />
+    </arc>
+    <arc class="consumption" id="consumption-70" source="A2" target="multiarc-55-in">
+      <start x="540.0" y="150.0" />
+      <end x="585.0" y="150.0" />
+    </arc>
+    <arc class="production" id="production-71" source="multiarc-55-out" target="A3">
+      <start x="615.0" y="150.0" />
+      <end x="660.0" y="150.0" />
+    </arc>
+    <arc class="consumption" id="consumption-72" source="B" target="p1-in">
+      <start x="240.0" y="250.0" />
+      <end x="285.0" y="250.0" />
+    </arc>
+    <arc class="production" id="production-73" source="p1-out" target="C">
+      <start x="315.0" y="250.0" />
+      <end x="360.0" y="250.0" />
+    </arc>
+    <arc class="consumption" id="consumption-74" source="D" target="p2-in">
+      <start x="640.0" y="250.0" />
+      <end x="685.0" y="250.0" />
+    </arc>
+    <arc class="production" id="production-75" source="p2-out" target="E">
+      <start x="715.0" y="250.0" />
+      <end x="760.0" y="250.0" />
+    </arc>
+    <arc class="catalysis" id="modulation-76" source="A1" target="p1">
+      <start x="300.0" y="170.0" />
+      <end x="300.0" y="240.0" />
+    </arc>
+    <arc class="catalysis" id="modulation-77" source="A3" target="p2">
+      <start x="700.0" y="170.0" />
+      <end x="700.0" y="240.0" />
+    </arc>
+  </map>
+</sbgn>
