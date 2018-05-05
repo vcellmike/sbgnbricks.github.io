@@ -14,15 +14,15 @@
       <port id="p1-in" x="235.0" y="150.0" />
       <port id="p1-out" x="265.0" y="150.0" />
     </glyph>
-    <arc class="consumption" id="consumption-139" source="A" target="p1-in">
+    <arc class="consumption" id="consumption-158" source="A" target="p1-in">
       <start x="240.0" y="150.0" />
       <end x="235.0" y="150.0" />
     </arc>
-    <arc class="production" id="production-140" source="p1-out" target="B">
+    <arc class="production" id="production-159" source="p1-out" target="B">
       <start x="265.0" y="150.0" />
       <end x="340.0" y="150.0" />
     </arc>
-    <arc class="catalysis" id="modulation-141" source="A" target="p1">
+    <arc class="catalysis" id="modulation-160" source="A" target="p1">
       <start x="240.0" y="150.0" />
       <end x="240.0" y="150.0" />
     </arc>

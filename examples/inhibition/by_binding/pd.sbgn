@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+  <map language="process description">
+    <glyph class="macromolecule" id="A">
+      <label text="A" />
+      <bbox x="260.0" y="130.0" w="80" h="40" />
+    </glyph>
+    <glyph class="macromolecule" id="B">
+      <label text="B" />
+      <bbox x="260.0" y="230.0" w="80" h="40" />
+    </glyph>
+    <glyph class="complex" id="C">
+      <bbox x="360.0" y="130.0" w="90.0" h="100.0" />
+      <glyph class="macromolecule" id="Ac-C">
+        <label text="A" />
+        <bbox x="370.0" y="135.0" w="80" h="40" />
+      </glyph>
+      <glyph class="macromolecule" id="Bc-C">
+        <label text="B" />
+        <bbox x="370.0" y="190.0" w="80" h="40" />
+      </glyph>
+    </glyph>
+    <glyph class="simple chemical" id="D">
+      <label text="D" />
+      <bbox x="160.0" y="330.0" w="80" h="40" />
+    </glyph>
+    <glyph class="simple chemical" id="E">
+      <label text="E" />
+      <bbox x="360.0" y="330.0" w="80" h="40" />
+    </glyph>
+    <glyph class="association" id="a1">
+      <bbox x="325.0" y="183.33333333333334" w="20" h="20" />
+      <port id="a1-in" x="320.0" y="193.33333333333334" />
+      <port id="a1-out" x="350.0" y="193.33333333333334" />
+    </glyph>
+    <glyph class="process" id="p1">
+      <bbox x="290.0" y="340.0" w="20" h="20" />
+      <port id="p1-in" x="285.0" y="350.0" />
+      <port id="p1-out" x="315.0" y="350.0" />
+    </glyph>
+    <arc class="consumption" id="consumption-9" source="A" target="a1-in">
+      <start x="300.0" y="170.0" />
+      <end x="320.0" y="193.33333333333334" />
+    </arc>
+    <arc class="consumption" id="consumption-10" source="B" target="a1-in">
+      <start x="300.0" y="230.0" />
+      <end x="320.0" y="193.33333333333334" />
+    </arc>
+    <arc class="production" id="production-11" source="a1-out" target="C">
+      <start x="350.0" y="193.33333333333334" />
+      <end x="360.0" y="180.0" />
+    </arc>
+    <arc class="consumption" id="consumption-12" source="D" target="p1-in">
+      <start x="240.0" y="350.0" />
+      <end x="285.0" y="350.0" />
+    </arc>
+    <arc class="production" id="production-13" source="p1-out" target="E">
+      <start x="315.0" y="350.0" />
+      <end x="360.0" y="350.0" />
+    </arc>
+    <arc class="catalysis" id="modulation-14" source="B" target="p1">
+      <start x="300.0" y="270.0" />
+      <end x="300.0" y="340.0" />
+    </arc>
+  </map>
+</sbgn>

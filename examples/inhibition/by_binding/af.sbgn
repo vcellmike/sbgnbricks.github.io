@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+  <map language="activity flow">
+    <glyph class="biological activity" id="A">
+      <label text="A" />
+      <bbox x="260.0" y="130.0" w="80" h="40" />
+    </glyph>
+    <glyph class="biological activity" id="B">
+      <label text="B" />
+      <bbox x="260.0" y="230.0" w="80" h="40" />
+    </glyph>
+    <glyph class="biological activity" id="C">
+      <label text="C" />
+      <bbox x="360.0" y="130.0" w="80" h="40" />
+      <glyph id="C-uoi-31" class="unit of information">
+        <label text="" />
+        <entity name="complex" />
+        <bbox x="380.0" y="125.0" w="40" h="10" />
+      </glyph>
+    </glyph>
+    <glyph class="biological activity" id="E">
+      <label text="E" />
+      <bbox x="260.0" y="330.0" w="80" h="40" />
+      <glyph id="E-uoi-32" class="unit of information">
+        <label text="" />
+        <entity name="simple chemical" />
+        <bbox x="280.0" y="325.0" w="40" h="10" />
+      </glyph>
+    </glyph>
+    <glyph class="and" id="modulation-27">
+      <bbox x="320.8333333333333" y="170.83333333333334" w="25" h="25" />
+      <port id="modulation-27-in" x="333.3333333333333" y="200.83333333333334" />
+      <port id="modulation-27-out" x="333.3333333333333" y="165.83333333333334" />
+    </glyph>
+    <arc class="positive influence" id="modulation-25" source="B" target="E">
+      <start x="300.0" y="270.0" />
+      <end x="300.0" y="330.0" />
+    </arc>
+    <arc class="negative influence" id="modulation-26" source="A" target="B">
+      <start x="300.0" y="170.0" />
+      <end x="300.0" y="230.0" />
+    </arc>
+    <arc class="logic arc" id="logic-arc-28" source="A" target="modulation-27-in">
+      <start x="300.0" y="170.0" />
+      <end x="333.3333333333333" y="200.83333333333334" />
+    </arc>
+    <arc class="logic arc" id="logic-arc-29" source="B" target="modulation-27-in">
+      <start x="300.0" y="230.0" />
+      <end x="333.3333333333333" y="200.83333333333334" />
+    </arc>
+    <arc class="positive influence" id="positive-influence-30" source="modulation-27-out" target="C">
+      <start x="333.3333333333333" y="170.83333333333334" />
+      <end x="400.0" y="170.0" />
+    </arc>
+  </map>
+</sbgn>
