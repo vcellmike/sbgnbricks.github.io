@@ -9,16 +9,16 @@
       <label text="B" />
       <bbox x="260.0" y="130.0" w="80" h="40" />
     </glyph>
-    <glyph class="process" id="multiarc-212">
+    <glyph class="process" id="multiarc-234">
       <bbox x="240.0" y="140.0" w="20" h="20" />
-      <port id="multiarc-212-in" x="235.0" y="150.0" />
-      <port id="multiarc-212-out" x="265.0" y="150.0" />
+      <port id="multiarc-234-in" x="235.0" y="150.0" />
+      <port id="multiarc-234-out" x="265.0" y="150.0" />
     </glyph>
-    <arc class="consumption" id="consumption-215" source="A" target="multiarc-212-in">
+    <arc class="consumption" id="consumption-237" source="A" target="multiarc-234-in">
       <start x="240.0" y="150.0" />
       <end x="235.0" y="150.0" />
     </arc>
-    <arc class="production" id="production-216" source="multiarc-212-out" target="B">
+    <arc class="production" id="production-238" source="multiarc-234-out" target="B">
       <start x="265.0" y="150.0" />
       <end x="340.0" y="150.0" />
     </arc>

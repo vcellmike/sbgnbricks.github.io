@@ -4,7 +4,7 @@
     <glyph class="macromolecule" id="A1">
       <label text="A" />
       <bbox x="260.0" y="130.0" w="80" h="40" />
-      <glyph id="A1-state-variable-195" class="state variable">
+      <glyph id="A1-state-variable-217" class="state variable">
         <state value="state1" variable="" />
         <bbox x="330.0" y="162.5" w="15" h="15" />
       </glyph>
@@ -12,7 +12,7 @@
     <glyph class="macromolecule" id="A2">
       <label text="A" />
       <bbox x="460.0" y="130.0" w="80" h="40" />
-      <glyph id="A2-state-variable-196" class="state variable">
+      <glyph id="A2-state-variable-218" class="state variable">
         <state value="state2" variable="" />
         <bbox x="530.0" y="162.5" w="15" h="15" />
       </glyph>
@@ -20,7 +20,7 @@
     <glyph class="macromolecule" id="A3">
       <label text="A" />
       <bbox x="660.0" y="130.0" w="80" h="40" />
-      <glyph id="A3-state-variable-197" class="state variable">
+      <glyph id="A3-state-variable-219" class="state variable">
         <state value="state3" variable="" />
         <bbox x="730.0" y="162.5" w="15" h="15" />
       </glyph>
@@ -41,15 +41,15 @@
       <label text="E" />
       <bbox x="760.0" y="230.0" w="80" h="40" />
     </glyph>
-    <glyph class="process" id="multiarc-169">
+    <glyph class="process" id="multiarc-191">
       <bbox x="390.0" y="140.0" w="20" h="20" />
-      <port id="multiarc-169-in" x="385.0" y="150.0" />
-      <port id="multiarc-169-out" x="415.0" y="150.0" />
+      <port id="multiarc-191-in" x="385.0" y="150.0" />
+      <port id="multiarc-191-out" x="415.0" y="150.0" />
     </glyph>
-    <glyph class="process" id="multiarc-172">
+    <glyph class="process" id="multiarc-194">
       <bbox x="590.0" y="140.0" w="20" h="20" />
-      <port id="multiarc-172-in" x="585.0" y="150.0" />
-      <port id="multiarc-172-out" x="615.0" y="150.0" />
+      <port id="multiarc-194-in" x="585.0" y="150.0" />
+      <port id="multiarc-194-out" x="615.0" y="150.0" />
     </glyph>
     <glyph class="process" id="p1">
       <bbox x="290.0" y="240.0" w="20" h="20" />
@@ -61,43 +61,43 @@
       <port id="p2-in" x="685.0" y="250.0" />
       <port id="p2-out" x="715.0" y="250.0" />
     </glyph>
-    <arc class="consumption" id="consumption-185" source="A1" target="multiarc-169-in">
+    <arc class="consumption" id="consumption-207" source="A1" target="multiarc-191-in">
       <start x="340.0" y="150.0" />
       <end x="385.0" y="150.0" />
     </arc>
-    <arc class="production" id="production-186" source="multiarc-169-out" target="A2">
+    <arc class="production" id="production-208" source="multiarc-191-out" target="A2">
       <start x="415.0" y="150.0" />
       <end x="460.0" y="150.0" />
     </arc>
-    <arc class="consumption" id="consumption-187" source="A2" target="multiarc-172-in">
+    <arc class="consumption" id="consumption-209" source="A2" target="multiarc-194-in">
       <start x="540.0" y="150.0" />
       <end x="585.0" y="150.0" />
     </arc>
-    <arc class="production" id="production-188" source="multiarc-172-out" target="A3">
+    <arc class="production" id="production-210" source="multiarc-194-out" target="A3">
       <start x="615.0" y="150.0" />
       <end x="660.0" y="150.0" />
     </arc>
-    <arc class="consumption" id="consumption-189" source="B" target="p1-in">
+    <arc class="consumption" id="consumption-211" source="B" target="p1-in">
       <start x="240.0" y="250.0" />
       <end x="285.0" y="250.0" />
     </arc>
-    <arc class="production" id="production-190" source="p1-out" target="C">
+    <arc class="production" id="production-212" source="p1-out" target="C">
       <start x="315.0" y="250.0" />
       <end x="360.0" y="250.0" />
     </arc>
-    <arc class="consumption" id="consumption-191" source="D" target="p2-in">
+    <arc class="consumption" id="consumption-213" source="D" target="p2-in">
       <start x="640.0" y="250.0" />
       <end x="685.0" y="250.0" />
     </arc>
-    <arc class="production" id="production-192" source="p2-out" target="E">
+    <arc class="production" id="production-214" source="p2-out" target="E">
       <start x="715.0" y="250.0" />
       <end x="760.0" y="250.0" />
     </arc>
-    <arc class="catalysis" id="modulation-193" source="A1" target="p1">
+    <arc class="catalysis" id="modulation-215" source="A1" target="p1">
       <start x="300.0" y="170.0" />
       <end x="300.0" y="240.0" />
     </arc>
-    <arc class="catalysis" id="modulation-194" source="A3" target="p2">
+    <arc class="catalysis" id="modulation-216" source="A3" target="p2">
       <start x="700.0" y="170.0" />
       <end x="700.0" y="240.0" />
     </arc>
