@@ -62,7 +62,7 @@ ModelBricks of the Virtual Cell project-->
 <tr>
 <td style="width: 200px;"><br /><p style="margin:4px;"><img src="/images/team/EmekDemir.jpg" width="160"/></p></td>
 <td style="width: 200px;"><br /><p style="margin:4px;"><img src="/images/team/GaryBader.jpg" width="160"/></p></td>
-<td style="width: 200px;"><br /> </td>
+<td style="width: 200px;"><br /><p style="margin:4px;"><img src="/images/team/VasundraToure.jpg" width="160"/></p></td>
 <td style="width: 200px;"><br /> </td>
 </tr>
 </table>
@@ -71,7 +71,7 @@ ModelBricks of the Virtual Cell project-->
 <tr>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Emek Demir</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Oregon Health & Science University, Portland, USA</font></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Gary Bader</strong></p><p style="margin:4px; line-height:100%;"><font size="2">University of Toronto, Toronto, Canada</font></p></td>
-<td style="width: 200px;"> </td>
+<td style="width: 200px;"><p style="margin:4px;"><strong>Vasundra Toure</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
 <td style="width: 200px;"> </td>
 </tr>
 </table>
