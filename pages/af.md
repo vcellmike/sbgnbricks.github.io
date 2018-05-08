@@ -29,8 +29,14 @@ This page presents a collection of Activity Flow bricks.
     <td style="width:210px; text-align:center; font-size:90%;"><img src="../bricks/proteinphosphorylation/ProteinPhosphorylation-AF01.01-hz.png" width="205"/><br /><a href="/bricks/proteinphosphorylation/ProteinPhosphorylation-AF01.01-hz.sbgn">SBGN-ML</a> </td>
     <td style="vertical-align: middle; padding-left: 1em;"><strong>Protein phosphorylation.</strong> The kinase activity positively influences the activity of a phosphorylated protein X. Both activities are marked by the <i>macromolecule</i> unit of information. If the phosphorylation leaded to protein deactivation, then the <i>activation</i> arc would have been replaced by an <i>inhibition</i> arc.</td>
     </tr>
+	<tr>
+    <td style="width:210px; text-align:center; font-size:90%;"><img src="../bricks/complexassociation/ComplexFormation-AF01.AA.png" width="205"/><br /><a href="/bricks/complexassociation/ComplexFormation-AF01.AA.sbgn">SBGN-ML</a> </td>
+    <td style="vertical-align: middle; padding-left: 1em;"><strong>Complex association.</strong> The activity X together with the activity Y stimulates the activity X\_Y. The identity of X\_Y as a complex is represented using the <i>complex</i> unit of information. </td>
+    </tr>
+   	<tr>
+    <td style="width:210px; text-align:center; font-size:90%;"><img src="../bricks/complexdissociation/ComplexDissociation-AF01.AA.png" width="205"/><br /><a href="/bricks/complexdissociation/ComplexDissociation-AF01.AA.sbgn">SBGN-ML</a> </td>
+    <td style="vertical-align: middle; padding-left: 1em;"><strong>Complex dissociation.</strong> The activity X_Y stimulates the activities X and Y. </td>
+    </tr>
 </table>
-
-## Protein-protein interaction networks
 
 
