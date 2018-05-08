@@ -31,7 +31,7 @@ This page presents a collection of Activity Flow bricks.
     </tr>
 	<tr>
     <td style="width:210px; text-align:center; font-size:90%;"><img src="../bricks/complexassociation/ComplexFormation-AF01.AA.png" width="205"/><br /><a href="/bricks/complexassociation/ComplexFormation-AF01.AA.sbgn">SBGN-ML</a> </td>
-    <td style="vertical-align: middle; padding-left: 1em;"><strong>Complex association.</strong> The activity X together with the activity Y stimulates the activity X\_Y. The identity of X\_Y as a complex is represented using the <i>complex</i> unit of information. </td>
+    <td style="vertical-align: middle; padding-left: 1em;"><strong>Complex association.</strong> The activity X together with the activity Y stimulates the activity X_Y. The identity of X_Y as a complex is represented using the <i>complex</i> unit of information. </td>
     </tr>
    	<tr>
     <td style="width:210px; text-align:center; font-size:90%;"><img src="../bricks/complexdissociation/ComplexDissociation-AF01.AA.png" width="205"/><br /><a href="/bricks/complexdissociation/ComplexDissociation-AF01.AA.sbgn">SBGN-ML</a> </td>
