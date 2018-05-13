@@ -56,3 +56,15 @@ This page presents a collection of Activity Flow bricks.
 	</tr>	
 </table>
 
+## Compartmentation
+
+<table>
+	<tr>
+	<td style="width:210px; text-align:center; font-size:90%;"><img src="../bricks/compartmentation/PassiveTransport-AF01-AA.png" width="205"/><br /><a href="/bricks/compartmentation/PassiveTransport-AF01-AA.sbgn">SBGN-ML</a> </td>
+    <td style="vertical-align: middle; padding-left: 1em;"><strong>Passive transport.</strong> The activity X in the cytosol stimulates the activity X in the nucleus, describing the passive transport of X from one compartment to the other. Cytosolic and nuclear localization are represented using the <i>compartment</i> glyph with the corresponding label.  </td>
+   	</tr>
+   	<tr>
+   	<td style="width:210px; text-align:center; font-size:90%;"><img src="../bricks/compartmentation/ActiveTransport-AF01-AA.png" width="205"/><br /><a href="/bricks/compartmentation/ActiveTransport-AF01-AA.sbgn">SBGN-ML</a> </td>
+    <td style="vertical-align: middle; padding-left: 1em;"><strong>Active transport.</strong> The activity X in the cytosol and the activity Y in the nuclear membrane stimulate the activity X in the nucleus, describing the active transport of X from one compartment to the other. <i>Logic arc</i> resulting in the logical operator <i>AND</i> represent the combined activities of X and Y.</td>
+	</tr>	
+</table>

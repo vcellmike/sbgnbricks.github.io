@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+    <map language="activity flow">
+        <glyph compartmentOrder="-7.0" id="glyph1" class="compartment">
+            <label text="Cytosol">
+                <bbox y="20.0" x="194.0" h="18.0" w="56.0"/>
+            </label>
+            <bbox y="12.0" x="14.0" h="230.0" w="416.0"/>
+        </glyph>
+        <glyph compartmentOrder="-6.0" id="glyph5" class="compartment">
+            <label text="Nuclear Membrane">
+                <bbox y="69.0" x="210.0" h="18.0" w="128.0"/>
+            </label>
+            <bbox y="61.0" x="130.0" h="168.0" w="288.0"/>
+        </glyph>
+        <glyph compartmentOrder="-5.0" id="glyph2" class="compartment">
+            <label text="Nucleus">
+                <bbox y="128.0" x="309.5" h="18.0" w="59.0"/>
+            </label>
+            <bbox y="120.0" x="271.0" h="96.0" w="136.0"/>
+        </glyph>
+        <glyph compartmentRef="glyph1" id="glyph3" class="biological activity">
+            <label text="X"/>
+            <bbox y="158.33333" x="28.0" h="40.0" w="80.0"/>
+            <glyph id="glyph3a" class="unit of information">
+                <entity name="macromolecule"/>
+                <bbox y="150.33333" x="33.0" h="16.0" w="30.0"/>
+            </glyph>
+        </glyph>
+        <glyph compartmentRef="glyph5" id="glyph6" class="biological activity">
+            <label text="Y"/>
+            <bbox y="97.0" x="143.0" h="40.0" w="80.0"/>
+            <glyph id="glyph6a" class="unit of information">
+                <entity name="macromolecule"/>
+                <bbox y="89.0" x="148.0" h="16.0" w="30.0"/>
+            </glyph>
+        </glyph>
+        <glyph id="glyph7" class="and">
+            <bbox y="156.33333" x="203.0" h="42.0" w="42.0"/>
+            <port y="177.33333" x="182.0" id="glyph7.1"/>
+            <port y="177.33333" x="266.0" id="glyph7.2"/>
+        </glyph>
+        <glyph compartmentRef="glyph2" id="glyph4" class="biological activity">
+            <label text="X"/>
+            <bbox y="157.33333" x="303.0" h="40.0" w="80.0"/>
+            <glyph id="glyph4a" class="unit of information">
+                <entity name="macromolecule"/>
+                <bbox y="149.33333" x="308.0" h="16.0" w="30.0"/>
+            </glyph>
+        </glyph>
+        <arc target="glyph7.1" source="glyph3" id="arc1" class="logic arc">
+            <start y="177.98245" x="108.0"/>
+            <end y="177.33333" x="182.0"/>
+        </arc>
+        <arc target="glyph7.1" source="glyph6" id="arc2" class="logic arc">
+            <start y="137.0" x="182.6685"/>
+            <end y="177.33333" x="182.0"/>
+        </arc>
+        <arc target="glyph4" source="glyph7.2" id="arc3" class="positive influence">
+            <start y="177.33333" x="266.0"/>
+            <end y="177.33333" x="303.0"/>
+        </arc>
+    </map>
+</sbgn>
