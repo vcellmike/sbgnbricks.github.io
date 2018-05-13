@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+    <map language="activity flow">
+        <glyph id="glyph2" class="biological activity">
+            <label text="TF"/>
+            <bbox y="15.5" x="11.0" h="40.0" w="80.0"/>
+            <glyph id="glyph2a" class="unit of information">
+                <label text="mt:prot"/>
+                <entity name="macromolecule"/>
+                <bbox y="7.5" x="7.0" h="16.0" w="48.0"/>
+            </glyph>
+        </glyph>
+        <glyph id="glyph0" class="biological activity">
+            <label text="X"/>
+            <bbox y="15.5" x="114.0" h="40.0" w="80.0"/>
+            <glyph id="glyph0a" class="unit of information">
+                <label text="ct:gene"/>
+                <entity name="nucleic acid feature"/>
+                <bbox y="7.5" x="108.5" h="16.0" w="51.0"/>
+            </glyph>
+        </glyph>
+        <glyph id="glyph4" orientation="vertical" class="and">
+            <bbox y="96.5" x="80.166664" h="35.0" w="35.0"/>
+            <port y="79.0" x="97.666664" id="glyph4.1"/>
+            <port y="149.0" x="97.666664" id="glyph4.2"/>
+        </glyph>
+        <glyph id="glyph3" class="biological activity">
+            <label text="TF_X"/>
+            <bbox y="163.0" x="57.666668" h="40.0" w="80.0"/>
+            <glyph id="glyph3a" class="unit of information">
+                <entity name="complex"/>
+                <bbox y="155.0" x="62.666668" h="16.0" w="30.0"/>
+            </glyph>
+        </glyph>
+        <glyph id="glyph1" class="biological activity">
+            <label text="X"/>
+            <bbox y="248.0" x="57.666668" h="40.0" w="80.0"/>
+            <glyph id="glyph1a" class="unit of information">
+                <label text="ct:mRNA"/>
+                <entity name="nucleic acid feature"/>
+                <bbox y="240.0" x="49.166668" h="16.0" w="57.0"/>
+            </glyph>
+        </glyph>
+        <arc target="glyph4.1" source="glyph2" id="arc0" class="logic arc">
+            <start y="55.5" x="72.45594"/>
+            <end y="79.0" x="97.666664"/>
+        </arc>
+        <arc target="glyph4.1" source="glyph0" id="arc1" class="logic arc">
+            <start y="55.5" x="128.09961"/>
+            <end y="79.0" x="97.666664"/>
+        </arc>
+        <arc target="glyph3" source="glyph4.2" id="arc2" class="positive influence">
+            <start y="149.0" x="97.666664"/>
+            <end y="163.0" x="97.666664"/>
+        </arc>
+        <arc target="glyph1" source="glyph3" id="arc3" class="necessary stimulation">
+            <start y="203.0" x="97.666664"/>
+            <end y="248.0" x="97.666664"/>
+        </arc>
+    </map>
+</sbgn>
