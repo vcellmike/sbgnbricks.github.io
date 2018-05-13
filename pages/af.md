@@ -37,7 +37,7 @@ This page presents a collection of Activity Flow bricks.
     <td style="width:210px; text-align:center; font-size:90%;"><img src="../bricks/complexdissociation/ComplexDissociation-AF01.AA.png" width="205"/><br /><a href="/bricks/complexdissociation/ComplexDissociation-AF01.AA.sbgn">SBGN-ML</a> </td>
     <td style="vertical-align: middle; padding-left: 1em;"><strong>Complex dissociation.</strong> The activity X_Y stimulates the activities X and Y. </td>
     </tr>
-       	<tr>
+    <tr>
     <td style="width:210px; text-align:center; font-size:90%;"><img src="../bricks/oligomerisation/Homodimerisation-AF01.AA.png" width="205"/><br /><a href="/bricks/oligomerisation/Homodimerisation-AF01.AA.sbgn">SBGN-ML</a> </td>
     <td style="vertical-align: middle; padding-left: 1em;"><strong>Oligomerisation.</strong> The activity of X-2P stimulates the activity of XX-2P. Both activities are phosphorylated at two residues (indicated by suffix <i>-2P</i> in the label). Cardinality cannot be represented in AF, thus the process of homodimerization is indicated by the labels <i>X-2P</i> and <i>XX-2P</i>. </td>
     </tr>
@@ -49,9 +49,10 @@ This page presents a collection of Activity Flow bricks.
 	<tr>
 	<td style="width:210px; text-align:center; font-size:90%;"><img src="../bricks/generegulation/Transcription-AF01-AA.png" width="205"/><br /><a href="/bricks/generegulation/Transcription-AF01-AA.sbgn">SBGN-ML</a> </td>
     	<td style="vertical-align: middle; padding-left: 1em;"><strong>Direct regulation of a target gene by a transcription factor.</strong> The activities of a transcription factor (TF) and its target gene (TG) DNA X form a complex TF-X indicating the experimentally verified promoter binding of the TF. The complex identity of TF-X is represented using the <i>complex</i> unit of information. This complex is necessary to stimulate the activity of the TG mRNA X as indicated by the <i>neccessary stimulation</i> connecting arc. The identities of genomic fragment of DNA or RNA as <i>nucleic acid features<i/i> is represented iby the shape of the unit of information and the conceptual types (<i>ct:gene</i>, <i>ct:mRNA</i>) as label in the unit of information. </td>
+   	</tr>
+   	<tr>
    	<td style="width:210px; text-align:center; font-size:90%;"><img src="../bricks/generegulation/Translation-AF01-AA.png" width="205"/><br /><a href="/bricks/generegulation/Translation-AF01-AA.sbgn">SBGN-ML</a> </td>
-    	<td style="vertical-align: middle; padding-left: 1em;"><strong>Translation.</strong> The activity of X with the <i>nucleic acid feature</i> unit of information with the conceptual type <i>mRNA</i> (ct:mRNA) is necessary to  stimulate the activity X with the <i>macromolecule</i> unit of information and the material type <i>protein</i> (mt:prot).</td>
-	</tr>
-	
-
+    <td style="vertical-align: middle; padding-left: 1em;"><strong>Translation.</strong> The activity of X with the <i>nucleic acid feature</i> unit of information with the conceptual type <i>mRNA</i> (ct:mRNA) is necessary to  stimulate the activity X with the <i>macromolecule</i> unit of information and the material type <i>protein</i> (mt:prot).</td>
+	</tr>	
+</table>
 
