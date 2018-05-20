@@ -10,6 +10,8 @@ This page presents a collection of Activity Flow bricks.
 
 ## Metabolic network
 
+While the Activity Flow language is not well-suited for representing metabolic processes, often metabolic events are included in a signalling pathway. For these cases it is important to be able to express metabolic reactions and catalysis in the Activity Flow format.
+
 <table>
     <tr>
     <td style="width:210px; text-align:center; font-size:90%;"><img src="../bricks/reaction/Reaction-AF01.01-IRR.png" width="205"/><br /><a href="/bricks/reaction/Reaction-AF01.01-IRR.sbgn">SBGN-ML</a> </td>
