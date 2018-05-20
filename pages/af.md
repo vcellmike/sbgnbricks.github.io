@@ -43,7 +43,7 @@ This page presents a collection of Activity Flow bricks.
     </tr>
 </table>
 
-## Gene regulatory network
+## Gene regulation
 
 <table>
 	<tr>
@@ -56,7 +56,7 @@ This page presents a collection of Activity Flow bricks.
 	</tr>	
 </table>
 
-## Compartmentation
+## Transport
 
 <table>
 	<tr>
