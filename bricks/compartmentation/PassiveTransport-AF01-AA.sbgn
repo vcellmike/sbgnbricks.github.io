@@ -3,35 +3,35 @@
     <map language="activity flow">
         <glyph compartmentOrder="-4.0" id="glyph1" class="compartment">
             <label text="Cytosol">
-                <bbox y="21.0" x="131.0" h="18.0" w="56.0"/>
+                <bbox y="25.0" x="116.0" h="18.0" w="56.0"/>
             </label>
-            <bbox y="13.0" x="17.0" h="148.0" w="284.0"/>
+            <bbox y="17.0" x="19.0" h="240.0" w="250.0"/>
         </glyph>
         <glyph compartmentOrder="-3.0" id="glyph2" class="compartment">
             <label text="Nucleus">
-                <bbox y="54.0" x="193.5" h="18.0" w="59.0"/>
+                <bbox y="130.0" x="113.0" h="18.0" w="60.0"/>
             </label>
-            <bbox y="46.0" x="158.0" h="102.0" w="130.0"/>
+            <bbox y="122.0" x="43.0" h="110.0" w="200.0"/>
         </glyph>
         <glyph compartmentRef="glyph1" id="glyph3" class="biological activity">
             <label text="X"/>
-            <bbox y="82.0" x="35.0" h="40.0" w="80.0"/>
+            <bbox y="57.0" x="70.0" h="40.0" w="80.0"/>
             <glyph id="glyph3a" class="unit of information">
                 <entity name="macromolecule"/>
-                <bbox y="74.0" x="40.0" h="16.0" w="30.0"/>
+                <bbox y="49.0" x="75.0" h="16.0" w="30.0"/>
             </glyph>
         </glyph>
         <glyph compartmentRef="glyph2" id="glyph4" class="biological activity">
             <label text="X"/>
-            <bbox y="82.0" x="187.0" h="40.0" w="80.0"/>
+            <bbox y="170.0" x="69.0" h="40.0" w="80.0"/>
             <glyph id="glyph4a" class="unit of information">
                 <entity name="macromolecule"/>
-                <bbox y="74.0" x="192.0" h="16.0" w="30.0"/>
+                <bbox y="162.0" x="74.0" h="16.0" w="30.0"/>
             </glyph>
         </glyph>
         <arc target="glyph4" source="glyph3" id="arc1" class="positive influence">
-            <start y="102.0" x="115.0"/>
-            <end y="102.0" x="187.0"/>
+            <start y="97.0" x="109.823006"/>
+            <end y="170.0" x="109.176994"/>
         </arc>
     </map>
 </sbgn>
