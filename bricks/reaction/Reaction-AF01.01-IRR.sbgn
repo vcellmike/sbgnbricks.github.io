@@ -3,44 +3,44 @@
     <map language="activity flow">
         <glyph id="glyph0" class="biological activity">
             <label text="S1"/>
-            <bbox y="70.0" x="10.0" h="40.0" w="80.0"/>
+            <bbox y="95.0" x="15.0" h="40.0" w="80.0"/>
             <glyph id="glyph0a" class="unit of information">
                 <entity name="simple chemical"/>
-                <bbox y="60.0" x="20.0" h="20.0" w="20.0"/>
+                <bbox y="85.0" x="65.0" h="20.0" w="20.0"/>
             </glyph>
         </glyph>
         <glyph id="glyph2" class="biological activity">
             <label text="enzyme"/>
-            <bbox y="15.0" x="81.0" h="40.0" w="80.0"/>
+            <bbox y="25.0" x="61.0" h="40.0" w="80.0"/>
             <glyph id="glyph2a" class="unit of information">
                 <entity name="macromolecule"/>
-                <bbox y="7.0" x="86.0" h="16.0" w="30.0"/>
+                <bbox y="17.0" x="106.0" h="16.0" w="30.0"/>
             </glyph>
         </glyph>
         <glyph id="glyph3" class="and">
-            <bbox y="72.5" x="138.5" h="35.0" w="35.0"/>
-            <port y="90.0" x="121.0" id="glyph3.1"/>
-            <port y="90.0" x="191.0" id="glyph3.2"/>
+            <bbox y="97.5" x="118.5" h="35.0" w="35.0"/>
+            <port y="115.0" x="101.0" id="glyph3.1"/>
+            <port y="115.0" x="171.0" id="glyph3.2"/>
         </glyph>
         <glyph id="glyph1" class="biological activity">
             <label text="P1"/>
-            <bbox y="69.0" x="216.0" h="40.0" w="80.0"/>
+            <bbox y="94.0" x="191.0" h="40.0" w="80.0"/>
             <glyph id="glyph1a" class="unit of information">
                 <entity name="simple chemical"/>
-                <bbox y="59.0" x="226.0" h="20.0" w="20.0"/>
+                <bbox y="84.0" x="241.0" h="20.0" w="20.0"/>
             </glyph>
         </glyph>
         <arc target="glyph3.1" source="glyph0" id="arc0" class="logic arc">
-            <start y="90.0" x="90.0"/>
-            <end y="90.0" x="121.0"/>
+            <start y="115.0" x="95.0"/>
+            <end y="115.0" x="101.0"/>
         </arc>
         <arc target="glyph3.1" source="glyph2" id="arc1" class="logic arc">
-            <start y="55.0" x="121.0"/>
-            <end y="90.0" x="121.0"/>
+            <start y="65.0" x="101.0"/>
+            <end y="115.0" x="101.0"/>
         </arc>
         <arc target="glyph1" source="glyph3.2" id="arc2" class="positive influence">
-            <start y="90.0" x="191.0"/>
-            <end y="89.4" x="216.0"/>
+            <start y="115.0" x="171.0"/>
+            <end y="114.42105" x="191.0"/>
         </arc>
     </map>
 </sbgn>
