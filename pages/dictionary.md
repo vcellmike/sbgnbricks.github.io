@@ -35,9 +35,9 @@ Associated GO terms: [GO:0006468 protein phosphorylation](http://amigo.geneontol
 
 <table>
     <tr>
-    <td style="width:260px; text-align:center; font-size:90%;"><img src="../bricks/proteinphosphorylation/ProteinPhosphorylation-PD01.03-2x2.png" width="205"/><br /><a href="/bricks/proteinphosphorylation/ProteinPhosphorylation-PD01.03-2x2.sbgn">SBGN-ML</a></td>
-    <td style="width:260px; text-align:center; font-size:90%;"><img src="../bricks/proteinphosphorylation/ProteinPhosphorylation-AF01.01.png" width="80"/><br /><a href="/bricks/proteinphosphorylation/ProteinPhosphorylation-AF01.01.sbgn">SBGN-ML</a></td>
-    <td style="width:260px; text-align:center; font-size:90%;"><img src="../bricks/proteinphosphorylation/ProteinPhosphorylation-ER01.01.png" width="166"/><br /><a href="/bricks/proteinphosphorylation/ProteinPhosphorylation-ER01.01.sbgn">SBGN-ML</a></td>
+    <td style="width:260px; text-align:center; font-size:90%;"><img src="../bricks/proteinphosphorylation/ProteinPhosphorylation-PD01-2x2.png" width="205"/><br /><a href="/bricks/proteinphosphorylation/ProteinPhosphorylation-PD01-2x2.sbgn">SBGN-ML</a></td>
+    <td style="width:260px; text-align:center; font-size:90%;"><img src="../bricks/proteinphosphorylation/ProteinPhosphorylation-AF01.png" width="80"/><br /><a href="/bricks/proteinphosphorylation/ProteinPhosphorylation-AF01.sbgn">SBGN-ML</a></td>
+    <td style="width:260px; text-align:center; font-size:90%;"><img src="../bricks/proteinphosphorylation/ProteinPhosphorylation-ER01.png" width="166"/><br /><a href="/bricks/proteinphosphorylation/ProteinPhosphorylation-ER01.sbgn">SBGN-ML</a></td>
     </tr>
 </table>
 
