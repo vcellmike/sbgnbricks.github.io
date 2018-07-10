@@ -13,7 +13,7 @@ This page presents a collection of Entity Relationship bricks.
 <table>
     <tr>
     <td style="width:210px; text-align:center; font-size:90%;"><img src="../bricks/proteinphosphorylation/ProteinPhosphorylation-ER01.png" width="205"/><br /><a href="/bricks/proteinphosphorylation/ProteinPhosphorylation-ER01.sbgn">SBGN-ML</a> </td>
-    <td style="vertical-align: middle; padding-left: 1em;"><strong>Protein phosphorylation.</strong> A kinase entity stimulates the assignment of a phosphorylated state to a target protein entity (X). The assignment is represented using the <i>assignment</i> arc. The phosphate is represented using a <i>variable value,/i. with the label P. The <i>state variable</i> at the target protein indicates the phosphorylation site. </td>
+    <td style="vertical-align: middle; padding-left: 1em;"><strong>Protein phosphorylation.</strong> A kinase entity stimulates the assignment of a phosphorylated state to a target protein entity (X). The assignment is represented using the <i>assignment</i> arc. The phosphate is represented using a <i>variable value</i>. with the label P. The <i>state variable</i> at the target protein indicates the phosphorylation site. </td>
     </tr>
     <tr>
     <td style="width:210px; text-align:center; font-size:90%;"><img src="../bricks/complexassociation/ComplexFormation-ER01.png" width="205"/><br /><a href="/bricks/complexassociation/ComplexFormation-ER01.sbgn">SBGN-ML</a> </td>
@@ -40,7 +40,7 @@ There are no compartment glyphs in the Entity Relationship language. Therefore t
 
 <table>
 	<tr>
-	<td style="width:210px; text-align:center; font-size:90%;"><img src="../bricks/compartmentation/PassiveTransport-ER01.png" width="205"/><br /><a href="/bricks/compartmentation/PassiveTransport-ER01.sbgn">SBGN-ML</a> </td>
+	<td style="width:210px; text-align:center; font-size:90%;"><img src="../bricks/compartmentation/PassiveTransport-ER01.png" width="150"/><br /><a href="/bricks/compartmentation/PassiveTransport-ER01.sbgn">SBGN-ML</a> </td>
     <td style="vertical-align: middle; padding-left: 1em;"><strong>Passive transport.</strong> The variable value nucleus is assigned to the entity X. As ER does not represent temporal aspects, this brick does not show the transport of X from one to another compartment but rather shows where the entity X is located in. </td>
    	</tr>
    	<tr>

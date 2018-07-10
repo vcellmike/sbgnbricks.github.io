@@ -64,7 +64,7 @@ AF enables the conceptual representation of biological events with a low level o
 
 <table>
 	<tr>
-	<td style="width:210px; text-align:center; font-size:90%;"><img src="../bricks/functionalgenomics/FunctionalRelationship-AF01-AA.png" width="85"/><br /><a href="/bricks/functionalgenomics/FunctionalRelationship-AF01.sbgn">SBGN-ML</a> </td>
+	<td style="width:210px; text-align:center; font-size:90%;"><img src="../bricks/functionalgenomics/FunctionalRelationship-AF01-AA.png" width="100"/><br /><a href="/bricks/functionalgenomics/FunctionalRelationship-AF01.sbgn">SBGN-ML</a> </td>
     <td style="vertical-align: middle; padding-left: 1em;"><strong>Functional relationship.</strong> Any kind of <i>biological event</i> X (such as changing developmental or environmental conditions) is represented using the <i>pertubation</i> glyph and positively influences the species E (in any way). Species E in turn positively influences another <i>biological event</i> Y, represented using the <i>phenotype</i> glyph. </td>
    	</tr>
 </table>
