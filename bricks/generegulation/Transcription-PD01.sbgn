@@ -25,7 +25,7 @@
             <bbox y="173.33322" x="274.0" h="40.0" w="80.0"/>
             <glyph id="glyph3a" class="unit of information">
                 <label text="ct:mRNA"/>
-                <bbox y="165.33322" x="265.5" h="16.0" w="57.0"/>
+                <bbox y="165.33322" x="285.5" h="16.0" w="57.0"/>
             </glyph>
         </glyph>
         <glyph id="glyph9" class="process">
