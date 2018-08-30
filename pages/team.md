@@ -27,35 +27,35 @@ permalink: /team/
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/FalkSchreiber.jpg" width="160"/></p></td>
+<td style="width: 200px;"><br /><p style="margin:4px;"><img src="/images/team/VasundraToure.jpg" width="160"/></p></td>
+<td style="width: 200px;"><br /><p style="margin:4px;"><img src="/images/team/AdrienRougny.jpg" width="160"/></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/DenisShirshov.jpg" width="160"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/NicolasLeNovere.jpg" width="160"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/MichaelBlinov.jpg" width="160"/></p></td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Falk Schreiber</strong></p><p style="margin:4px; line-height:100%;"><font size="2">University of Konstanz, Konstanz, Germany</font></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><strong>Denis Shirshov</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><strong>Nicolas Le Novère</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Babraham Institute, Cambridge, United Kingdom</font></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><strong>Michael Blinov</strong></p><p style="margin:4px; line-height:100%;"><font size="2">UConn School of Medicine, University in Farmington, Connecticut, USA</font></p></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td style="width: 200px;"><br /><p style="margin:4px;"><img src="/images/team/EmekDemir.jpg" width="160"/></p></td>
-<td style="width: 200px;"><br /><p style="margin:4px;"><img src="/images/team/GaryBader.jpg" width="160"/></p></td>
-<td style="width: 200px;"><br /><p style="margin:4px;"><img src="/images/team/VasundraToure.jpg" width="160"/></p></td>
-<td style="width: 200px;"><br /><p style="margin:4px;"><img src="/images/team/AdrienRougny.jpg" width="160"/></p></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td style="width: 200px;"><p style="margin:4px;"><strong>Emek Demir</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Oregon Health & Science University, Portland, USA</font></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><strong>Gary Bader</strong></p><p style="margin:4px; line-height:100%;"><font size="2">University of Toronto, Toronto, Canada</font></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Vasundra Toure</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Adrien Rougny</strong></p><p style="margin:4px; line-height:100%;"><font size="2">National Institute of Advanced Industrial Science and Technology, Tokyo, Japan</font></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><strong>Denis Shirshov</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/NicolasLeNovere.jpg" width="160"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/MichaelBlinov.jpg" width="160"/></p></td>
+<td style="width: 200px;"><br /><p style="margin:4px;"><img src="/images/team/EmekDemir.jpg" width="160"/></p></td>
+<td style="width: 200px;"><br /><p style="margin:4px;"><img src="/images/team/GaryBader.jpg" width="160"/></p></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td style="width: 200px;"><p style="margin:4px;"><strong>Nicolas Le Novère</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Babraham Institute, Cambridge, United Kingdom</font></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><strong>Michael Blinov</strong></p><p style="margin:4px; line-height:100%;"><font size="2">UConn School of Medicine, University in Farmington, Connecticut, USA</font></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><strong>Emek Demir</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Oregon Health & Science University, Portland, USA</font></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><strong>Gary Bader</strong></p><p style="margin:4px; line-height:100%;"><font size="2">University of Toronto, Toronto, Canada</font></p></td>
 </tr>
 </table>
