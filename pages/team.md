@@ -42,6 +42,7 @@ permalink: /team/
 </tr>
 </table>
 
+<!--
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/MichaelBlinov.jpg" width="160"/></p></td>
@@ -50,7 +51,6 @@ permalink: /team/
 <td style="width: 200px;"><p style="margin:4px;"> </p></td>
 </tr>
 </table>
-
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Michael Blinov</strong></p><p style="margin:4px; line-height:100%;"><font size="2">UConn School of Medicine, University in Farmington, Connecticut, USA</font></p></td>
@@ -59,3 +59,4 @@ permalink: /team/
 <td style="width: 200px;"><p style="margin:4px;"> </p></td>
 </tr>
 </table>
+-->
