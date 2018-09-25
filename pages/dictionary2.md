@@ -4,6 +4,7 @@ title: Dictionary
 permalink: /dictionary2/
 ---
 
+
 <style>
 table.dic {
     border-collapse: separate;
