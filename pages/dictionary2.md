@@ -18,7 +18,7 @@ td.pd {
     font-size: 90%;
     box-shadow: gray 5px 5px 4px;
     border-radius: 25px;
-    background-color: rgb(255, 206, 215);
+    background-color: rgb(224, 255, 255);
     padding-top: 2%;
     padding-right: 2%;
     padding-bottom: 2%;
@@ -30,7 +30,7 @@ td.af {
     font-size: 90%;
     box-shadow: gray 5px 5px 4px;
     border-radius: 25px;
-    background-color: rgb(224, 255, 255);
+    background-color: rgb(255, 255, 201);
     padding-top: 2%;
     padding-right: 2%;
     padding-bottom: 2%;
@@ -42,7 +42,7 @@ td.er {
     font-size: 90%;
     box-shadow: gray 5px 5px 4px;
     border-radius: 25px;
-    background-color: rgb(255, 255, 201);
+    background-color: rgb(255, 206, 215);
     padding-top: 2%;
     padding-right: 2%;
     padding-bottom: 2%;
