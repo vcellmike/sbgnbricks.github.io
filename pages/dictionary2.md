@@ -288,15 +288,60 @@ Associated GO terms: [GO:0006468 protein phosphorylation](http://amigo.geneontol
   </tr>
 </table>
 
-For the AF expression the assumption is that the phosporylation leads to the activity towards another entity (not shown). A different possible situation: phosphorylation leads to protein deactivation and then the _activation_ arc in AF would need to be replaced by _inhibition_ arc.
+For the AF expression, the assumption is that phosporylation of X leads to its activation.
+Phosphorylation could also lead to its deactivation, and then the *stimulation* arc in AF would need to be replaced by an *inhibition* arc.
 
-In a similar way other types of posttranslational modifications can be expressed:
+In a similar way other types of post-translational modifications can be expressed:
 
 Acetylation | &nbsp; &nbsp; Ac | &nbsp; &nbsp; SBO:0000215 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Palmytoylation | &nbsp; &nbsp; Pa | &nbsp; &nbsp; SBO:0000218
 Glycosylation | &nbsp; &nbsp; G | &nbsp; &nbsp; SBO:0000217 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Prenylation | &nbsp; &nbsp; Pr | &nbsp; &nbsp; SBO:0000221
 Hydroxylation | &nbsp; &nbsp; OH | &nbsp; &nbsp; SBO:0000233 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Protonation | &nbsp; &nbsp; H | &nbsp; &nbsp; SBO:0000212
 Methylation | &nbsp; &nbsp; Me | &nbsp; &nbsp; SBO:0000214 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sulfation | &nbsp; &nbsp; S | &nbsp; &nbsp; SBO:0000220
 Myristoylation | &nbsp; &nbsp; My | &nbsp; &nbsp; SBO:0000219 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ubiquitination | &nbsp; &nbsp; Ub | &nbsp; &nbsp; SBO:0000224
+
+### Protein dephosphorylation
+
+<table class="dic">
+  <tr>
+      <td class="pd new" style="width:32%"><img src="../bricks2/proteindephosphorylation/ProteinDephosphorylation-PD01.png" width="175px"/></td>
+      <td class="af new" style="width:32%"><img src="../bricks2/proteindephosphorylation/ProteinDephosphorylation-AF01.png" width="62px"/></td>
+      <td class="er new" style="width:32%"><img src="../bricks2/proteindephosphorylation/ProteinDephosphorylation-ER01.png" width="131px"/></td>
+  </tr>
+  <tr>
+      <td><a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-PD01.png"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-PD01.png"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-AF01.png"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-AF01.png"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-ER01.png"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-ER01.png"><img src="../images/newt_logo.png" width="50"/></a></td>
+  </tr>
+</table>
+
+<table class="dic">
+  <tr>
+      <td class="pd new" style="width:32%"><img src="../bricks2/proteindephosphorylation/ProteinDephosphorylation-PD01-Y.png" width="175px"/></td>
+      <td class="af new" style="width:32%"><img src="../bricks2/proteindephosphorylation/ProteinDephosphorylation-AF01-Y.png" width="62px"/></td>
+      <td class="er new" style="width:32%"><img src="../bricks2/proteindephosphorylation/ProteinDephosphorylation-ER01-Y.png" width="131px"/></td>
+  </tr>
+  <tr>
+      <td><a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-PD01-Y.png"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-PD01-Y.png"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-AF01-Y.png"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-AF01-Y.png"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-ER01-Y.png"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-ER01-Y.png"><img src="../images/newt_logo.png" width="50"/></a></td>
+  </tr>
+</table>
+
+<table class="dic">
+  <tr>
+      <td class="pd new" style="width:32%"><img src="../bricks2/proteindephosphorylation/ProteinDephosphorylation-PD01-2x2.png" width="175px"/></td>
+      <td class="af new" style="width:32%"><img src="../bricks2/proteindephosphorylation/ProteinDephosphorylation-AF01-2x2.png" width="62px"/></td>
+      <td class="er new" style="width:32%"><img src="../bricks2/proteindephosphorylation/ProteinDephosphorylation-ER01-2x2.png" width="131px"/></td>
+  </tr>
+  <tr>
+      <td><a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-PD01-2x2.png"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-PD01-2x2.png"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-AF01-2x2.png"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-AF01-2x2.png"><img src="../images/newt_logo.png" width="50"/></a></td>
+      <td><a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-ER01-2x2.png"><img src="../images/sbgnml_logo.png" width="60"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bricks2/proteindephosphorylation/ProteinDephosphorylation-ER01-2x2.png"><img src="../images/newt_logo.png" width="50"/></a></td>
+  </tr>
+</table>
+
+For the AF expression, the assumption is that dephosporylation of X leads to its deactivation.
+Dephosphorylation could also lead to its activation, and then the _inhibition_ arc in AF would need to be replaced by a *stimulation* arc.
 
 ### Oligomerisation
 
@@ -315,7 +360,7 @@ Associated GO terms: [GO:0051259 protein complex oligomerization](http://amigo.g
   </tr>
 </table>
 
-For the AF expression the assumption is that the dimer X/X has some activity.
+For the AF expression, the assumption is that the dimer X/X has some activity.
 
 ### Complex association
 
@@ -334,7 +379,7 @@ Associated GO terms: [GO:0065003 protein-containing complex assembly](http://ami
   </tr>
 </table>
 
-For the AF expression the assumption is that the complex X/Y has some activity.
+For the AF expression, the assumption is that the complex X/Y has some activity.
 
 ### Complex dissociation
 
@@ -410,7 +455,7 @@ Associated GO terms: [GO:0006412 translation](http://amigo.geneontology.org/amig
   </tr>
 </table>
 
-For the AF expression the assumption is that protein X has some activity.
+For the AF expression, the assumption is that protein X has some activity.
 
 ## Transport
 
@@ -448,7 +493,7 @@ Associated GO terms: [GO:0006810 transport](http://amigo.geneontology.org/amigo/
   </tr>
 </table>
 
-For the AF expression the assumption is that X has some activity in the nucleus.
+For the AF expression, the assumption is that X has some activity in the nucleus.
 
 ## Functional genomics
 
