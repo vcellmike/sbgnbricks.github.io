@@ -73,6 +73,7 @@ The previous version of the dictionary is available at <a href = "http://sbgnbri
     * [Inhibition](#inhibition)
 * [Signalling network](#signalling-network)
     * [Protein phosphorylation](#protein-phosphorylation)
+    * [Protein dephosphorylation](#protein-dephosphorylation)
     * [Oligomerisation](#oligomerisation)
     * [Complex association](#complex-association)
     * [Complex dissociation](#complex-dissociation)
