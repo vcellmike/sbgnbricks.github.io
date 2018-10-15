@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dictionary
-permalink: /dictionary/
+permalink: /dictionary1_backup/
 ---
 
 # SBGN Bricks Dictionary
