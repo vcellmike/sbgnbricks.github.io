@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dictionary
-permalink: /dictionary2/
+permalink: /dictionary2_backup/
 ---
 
 
