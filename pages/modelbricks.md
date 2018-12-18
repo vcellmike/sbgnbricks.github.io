@@ -20,7 +20,7 @@ FIGURE
 
 ### Protein phosphorylation
 
-If phosphorylation of a protein R is regulated by a signal S, then the amount of phosphorylated RP is characterised by either hyperbolic or sigmoidal response. The visualisation cannot provide the exact response pattern, as it depends on the kinetics of phosphorylation and dephosphorylation reactions. Below is SBGN brick that includes visualisation of this motif. This Multiplex Brick corresponds to two different executable bricks reproducing both signal-response patterns: VCell model Tyson_2003_1b.vcml (executable link) provides an executable counterpart for this multiplex brick for a sigmoidal response, while VCell model Tyson_2003_1c.vcml (executable link) provides an executable counterpart for a hyperbolic response.
+If phosphorylation of a protein R is regulated by a signal S, then the amount of phosphorylated RP is characterised by either a **hyperbolic** or a **sigmoidal response**. The visualisation cannot provide the exact response pattern, as it depends on the kinetics of phosphorylation and dephosphorylation reactions. Below is SBGN brick that includes visualisation of this motif. This Multiplex Brick corresponds to two different executable bricks reproducing both signal-response patterns: VCell model Tyson_2003_1b.vcml (executable link) provides an executable counterpart for this multiplex brick for a sigmoidal response, while VCell model Tyson_2003_1c.vcml (executable link) provides an executable counterpart for a hyperbolic response.
 
 FIGURE
 
