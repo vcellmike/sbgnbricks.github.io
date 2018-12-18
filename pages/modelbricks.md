@@ -14,7 +14,7 @@ Multiplex bricks represent a rich source of information that could be leveraged 
 
 ### Protein synthesis and degradation
 
- <div class="img" style="font-size:90%; text-align:center;"><img src="images/LinearSBGN.PNG" /><br /><a href="/bricks/reaction/Reaction-PD01-IRR.sbgn">SBGN-ML</a> &ensp; </div>
+ <div class="img" style="font-size:90%; text-align:center;"><img src="/images/modelbricks/LinearSBGN.PNG" /><br /><a href="/bricks/reaction/Reaction-PD01-IRR.sbgn">SBGN-ML</a> &ensp; </div>
 If synthesis of a protein R is regulated by a signal S, with a constant degradation, then R is characterised by a **linear response**: the amount of R is directly proportional to the strength of signal S. Below is SBGN brick that provides visualisation of this motif. The VCell model [Tyson_2003_1a.vcml](https://...) provides an executable counterpart for this multiplex brick.
 
  <div class="img" style="font-size:90%; text-align:center;"><img src="../bricks/reaction/LinearSBGN.PNG" /><br /><a href="/bricks/reaction/Reaction-PD01-IRR.sbgn">SBGN-ML</a> &ensp; </div>
