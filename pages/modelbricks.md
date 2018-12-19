@@ -15,13 +15,13 @@ Multiplex bricks represent a rich source of information that could be leveraged 
 ### Protein synthesis and degradation
 
  <div class="img" style="font-size:90%; text-align:center;"> <img src="/images/modelbricks/LinearSBGN.PNG" width="400" > &ensp; <img src="/images/modelbricks/LinearResponse.PNG" width="200"/><br />  <a href="/bricks/reaction/Reaction-PD01-IRR.sbgn">SBGN-ML</a> &ensp; </div> 
-If synthesis of a protein R is regulated by a signal S, with a constant degradation, then R is characterised by a **linear response**: the amount of R is directly proportional to the strength of signal S. SBGN-PD brick avove provides visualisation of this module. The VCell model <a href="/modelbricks/LinearResponse.vcml">Tyson_2003_1a.vcml</a> provides an executable counterpart for this multiplex brick.
+If synthesis of a protein R is regulated by a signal S, with a constant degradation, then R is characterised by a <strong>linear response</strong>: the amount of R is directly proportional to the strength of signal S. SBGN-PD brick avove provides visualisation of this module. The VCell model <a href="/modelbricks/LinearResponse.vcml">Tyson_2003_1a.vcml</a> provides an executable counterpart for this multiplex brick.
 
- <div class="img" style="font-size:90%; text-align:center;"><br /><a href="/modelbricks/LinearResponse.graphml">Graph-ML</a> &ensp; </div>
+ <div class="img" style="font-size:90%; text-align:center;"><br /><a href="/modelbricks/LinearResponse.graphml">SBGN-PD brick</a> &ensp; <a href="/modelbricks/LinearResponse.graphml">VCell brick</a> &ensp; <a href="/modelbricks/LinearResponse.sbml">SBML brick</a></div>
 
 ### Protein phosphorylation
 
-If phosphorylation of a protein R is regulated by a signal S, then the amount of phosphorylated RP is characterised by either a **hyperbolic** or a **sigmoidal response**. The visualisation cannot provide the exact response pattern, as it depends on the kinetics of phosphorylation and dephosphorylation reactions. Below is SBGN brick that includes visualisation of this motif. This Multiplex Brick corresponds to two different executable bricks reproducing both signal-response patterns: VCell model Tyson_2003_1b.vcml (executable link) provides an executable counterpart for this multiplex brick for a sigmoidal response, while VCell model Tyson_2003_1c.vcml (executable link) provides an executable counterpart for a hyperbolic response.
+If phosphorylation of a protein R is regulated by a signal S, then the amount of phosphorylated RP is characterised by either a <strong>hyperbolic</strong> or a <strong>sigmoidal response</strong>. The visualisation cannot provide the exact response pattern, as it depends on the kinetics of phosphorylation and dephosphorylation reactions. Below is SBGN brick that includes visualisation of this motif. This Multiplex Brick corresponds to two different executable bricks reproducing both signal-response patterns: VCell model Tyson_2003_1b.vcml (executable link) provides an executable counterpart for this multiplex brick for a sigmoidal response, while VCell model Tyson_2003_1c.vcml (executable link) provides an executable counterpart for a hyperbolic response.
 
 FIGURE
 
