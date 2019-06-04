@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ModelBricks
+title: ModelBricks 2
 permalink: /modelbricks2/
 ---
 
