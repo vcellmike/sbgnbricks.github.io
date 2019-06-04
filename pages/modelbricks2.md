@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ModelBricks
-permalink: /modelbricks/
+permalink: /modelbricks2/
 ---
 
 # ModelBricks
