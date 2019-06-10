@@ -13,12 +13,13 @@ permalink: /modelbricks_maria_1/
  <a href="/modelbricks/Tyson_2003_1b.xml">SBML brick Hyperbolic</a> &ensp;
 <a href="/modelbricks/Tyson_2003_1c.xml">SBML brick Sigmoidal</a>
 </div>
+<br />
 
 ### Publication 
 
-Pubmed <a href="/"> 26027516 <br />
+Pubmed <a href="/"> 26027516 </a> <br />
  
-DOI: <a href="/">  10.1016/j.cellsig.2015.05.016<br />
+DOI: <a href="/">  10.1016/j.cellsig.2015.05.016 </a> <br />
 
 ### Description
 
