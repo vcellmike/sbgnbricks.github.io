@@ -34,8 +34,7 @@ This model is comprised of two modules 1) the production of cAMP and the activat
 #### 2) Binding and phosphorilation of PLB
 
 <div class="img" style="font-size:90%; text-align:center;"> 
- <img src="/images/modelbricks/PLB_binding_phosph.PNG" width="200"/><br />
- <img src="/images/modelbricks/SigmoidalResponse.PNG" width="180"/><br />  </div>
+ <img src="/images/modelbricks/PLB_binding_phosph.PNG" width="400"/><br />  </div>
 
 
 
