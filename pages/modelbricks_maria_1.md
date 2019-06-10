@@ -15,8 +15,8 @@ This model is comprisd of two modules a) the production of cAMP and the activati
 
 #### Production of cAMP and activation of PKA
 
- <div class="img" style="font-size:90%; text-align:center;"> <img src="/images/modelbricks/LinearSBGN.PNG" width="400" > &ensp; 
- <br><img src="/images/modelbricks/LinearResponse.PNG" width="200"/><br />  </div> 
+ <div class="img" style="font-size:90%; text-align:center;"> <img cAMP="/images/modelbricks/" width="400" > &ensp; 
+ <br><img PKA="/images/modelbricks/" width="200"/><br />  </div> 
 
 ## Protein phosphorylation
 
