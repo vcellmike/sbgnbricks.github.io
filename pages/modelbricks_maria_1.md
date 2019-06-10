@@ -27,8 +27,9 @@ This model is comprised of two modules 1) the production of cAMP and the activat
 
 #### 1) Production of cAMP and activation of PKA
 
- <div class="img" style="font-size:90%; text-align:center;"> <img cAMP="images/modelbricks/cCAMPprod_PKAact.PNG" width="400" > &ensp; 
- <br><img PKA="/images/modelbricks/PLB_binding-phosph" width="200"/><br /> 
+ <div class="img" style="font-size:90%; text-align:center;"> 
+ <img cAMP="/images/modelbricks/cCAMPprod_PKAact.PNG" width="400" > &ensp; 
+ <img PKA="/images/modelbricks/PLB_binding_phosph.PNG" width="200"/><br /> 
 
 #### 2) Binding and phosphorilation of PLB
 
