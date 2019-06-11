@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Model Bricks Maria
-permalink: /modelbricks_maria_1/
+title: Model Bricks AKAP7
+permalink: /modelbricks_AKAP7/
 ---
 ### AKAP7 PLN Binding and PKA links
 
@@ -19,7 +19,7 @@ permalink: /modelbricks_maria_1/
 
 Pubmed: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=26027516"> 26027516 </a> <br />
  
-DOI: <a href="https://www.sciencedirect.com/science/article/pii/S0898656815001722?via%3Dihub">  10.1016/j.cellsig.2015.05.016 </a> <br />
+DOI: <a href="https://www.sciencedirect.com/science/article/pii/S0898656815001722?via%3Dihub"> 10.1016/j.cellsig.2015.05.016 </a><br />
 
 ### Description
 
@@ -36,7 +36,7 @@ This model is comprised of two modules 1) the production of cAMP and the activat
 <div class="img" style="font-size:90%; text-align:center;"> 
  <img src="/images/modelbricks/PLB_binding_phosph.PNG" width="300"/><br />  </div>
 
-#### Vcell: Pathway diagram
+#### 3) Vcell: Pathway diagram
 
 
 
