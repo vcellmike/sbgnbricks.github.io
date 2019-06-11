@@ -17,9 +17,9 @@ permalink: /modelbricks_maria_1/
 
 ### Publication 
 
-Pubmed <a href="/"> 26027516 </a> <br />
+Pubmed <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=26027516"> 26027516 </a> <br />
  
-DOI: <a href="/">  10.1016/j.cellsig.2015.05.016 </a> <br />
+DOI: <a href="https://www.sciencedirect.com/science/article/pii/S0898656815001722?via%3Dihub">  10.1016/j.cellsig.2015.05.016 </a> <br />
 
 ### Description
 
