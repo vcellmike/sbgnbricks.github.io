@@ -29,4 +29,4 @@ This model represents the activation of Src kinase, which is stimulated by the g
 <div>
   
  <img src="/images/modelbricks/PDGF_ModelBrick_SBGN.PNG" width="400"/>
- <img src="/images/modelbricks/PDGF_ModelBrick_ReactionDiagram.PNG" width=400> &ensp;
+ <img src="/images/modelbricks/PDGF_ModelBrick_ReactionDiagram.PNG" width="400"> &ensp;
