@@ -34,7 +34,7 @@ This model is comprised of two modules 1) the production of cAMP and the activat
 #### 2) Vcell reaction diagram: Binding and phosphorilation of PLB
 
 <div class="img" style="font-size:90%; text-align:center;"> 
- <img src="/images/modelbricks/PLB_binding_phosph.PNG" width="400"/><br />  </div>
+ <img src="/images/modelbricks/PLB_binding_phosph.PNG" width="300"/><br />  </div>
 
 #### Vcell: Pathway diagram
 
