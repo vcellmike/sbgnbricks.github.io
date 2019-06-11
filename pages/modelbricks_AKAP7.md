@@ -26,14 +26,14 @@ This model is comprised of two modules 1) the production of cAMP and the activat
 
 #### 1) Vcell reaction diagram: Production of cAMP and activation of PKA
 
- <div class="img" style="font-size:90%; text-align:center;"> 
- <img src="/images/modelbricks/cCAMPprod_PKAact.PNG" width="400" > &ensp; 
+ 
+ <img align+"center" src="/images/modelbricks/cCAMPprod_PKAact.PNG" width="400" > &ensp; 
   
 
 #### 2) Vcell reaction diagram: Binding and phosphorilation of PLB
 
-<div class="img" style="font-size:90%; text-align:center;"> 
- <img src="/images/modelbricks/PLB_binding_phosph.PNG" width="300"/><br />  </div>
+
+ <img align="center" src="/images/modelbricks/PLB_binding_phosph.PNG" width="300"/><br />  </div>
 
 #### 3) Vcell: Pathway diagram
 
