@@ -26,8 +26,11 @@ This model represents the activation of Src kinase, which is stimulated by the g
 
 ### Images
 
- <div class="img" style="font-size:90%; text-align:center;"> <img src="/images/modelbricks/LinearSBGN.PNG" width="400" > &ensp; 
- <br><img src="/images/modelbricks/LinearResponse.PNG" width="200"/><br />  </div> 
+ <div class="img" style="font-size:90%; text-align:center;"> 
+ <img src="/images/modelbricks/PDGF_ModelBrick_ReactionDiagram.PNG" width=500> &ensp; 
+ <br>
+ <img src="/images/modelbricks/PDGF_ModelBrick_SBGN.PNG" width="500"/>
+ <br />  </div> 
 If synthesis of a protein R is regulated by a signal S, with a constant degradation, then R is characterised by a <strong>linear response</strong>: the amount of R is directly proportional to the strength of signal S. SBGN-PD brick avove provides visualisation of this module. The VCell model <a href="/modelbricks/Tyson_2003_1a.vcml">Tyson_2003_1a.vcml</a> provides an executable counterpart for this multiplex brick.
 
 
