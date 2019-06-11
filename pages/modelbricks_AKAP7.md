@@ -38,7 +38,7 @@ This model is comprised of two modules 1) the production of cAMP and the activat
 
 #### 3) Vcell: Pathway diagram
 
-<div class="img" style="font-size:90%; text-align:center;"> 
+
  <img src="/images/modelbricks/Pathways-AKAP7.PNG" width="500"/><br />  </div>
 
 ### Contributors
