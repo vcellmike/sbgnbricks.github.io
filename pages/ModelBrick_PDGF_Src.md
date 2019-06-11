@@ -14,7 +14,8 @@ permalink: /ModelBrick_PDGF_Src
 
 ### Publication
 
-[DOI](https://doi.org/10.1016/j.cell.2013.08.026 "DOI")
+[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/24034255)
+[DOI](https://doi.org/10.1016/j.cell.2013.08.026)
 
 ### Description
 
