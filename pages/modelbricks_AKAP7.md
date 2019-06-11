@@ -17,13 +17,38 @@ permalink: /modelbricks_AKAP7/
 
 ### Publication 
 
- <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=26027516">Pubmed </a> <br />
- <a href="https://www.sciencedirect.com/science/article/pii/S0898656815001722?via%3Dihub">DOI </a><br />
+ <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=26027516">PMID: 26027516</a> <br />
+ <a href="https://doi.org/10.1016/j.cellsig.2015.05.016">DOI: 10.1016/j.cellsig.2015.05.016</a><br />
 
 ### Description
 
 This model is comprised of two modules 1) the production of cAMP and the activation of PKA and 2) The binding and phosphorilation of PLB by AKAP7. The VCell model <a href="/modelbricks/AKAP7_PLB_Binding_2PKA_links"> AKAP7_PLB_Binding_2PKA_links.vcml </a> provides an executable counterpart for this multiplex brick.
 
+<table>
+ <tr>
+  <td>
+   <img align="center" src="/images/modelbricks/cCAMPprod_PKAact.PNG" height="400"/>
+  </td>
+  <td>
+   <img align="center" src="/images/modelbricks/PLB_binding_phosph.PNG" height="400"/>
+  </td>
+  <td>
+   <img align="center" src="/images/modelbricks/Pathways-AKAP7.PNG" height="400"/>
+  </td>
+ </tr>
+  <tr>
+  <td>
+   Vcell reaction diagram: Production of cAMP and activation of PKA
+  </td>
+  <td>
+   Vcell reaction diagram: Binding and phosphorilation of PLB
+  </td>
+  <td>
+   Vcell: Pathway diagram
+  </td>
+ </tr>
+ </table>
+ 
 #### 1) Vcell reaction diagram: Production of cAMP and activation of PKA
 
  <p align="center">
@@ -33,8 +58,9 @@ This model is comprised of two modules 1) the production of cAMP and the activat
 #### 2) Vcell reaction diagram: Binding and phosphorilation of PLB
 
 <p align="center">
- <img align="center" src="/images/modelbricks/PLB_binding_phosph.PNG" width="300"/><br />  </div>
+ <img align="center" src="/images/modelbricks/PLB_binding_phosph.PNG" width="300"/><br />  
 </p>
+
 #### 3) Vcell: Pathway diagram
 
 <p align="center">
