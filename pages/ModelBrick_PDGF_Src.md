@@ -10,7 +10,11 @@ permalink: /ModelBrick_PDGF_Src
 
 ### Downloads
 
- <div class="img" style="font-size:90%; text-align:center;"><br /><a href="/modelbricks/LinearResponse.graphml">SBGN-PD brick</a> &ensp; <a href="/modelbricks/Tyson_2003_1a.vcml">VCell brick</a> &ensp; <a href="/modelbricks/Tyson_2003_1a.xml">SBML brick</a></div>
+ <div class="img" style="font-size:90%; text-align:center;">
+ <br>
+ <a href="/modelbricks/LinearResponse.graphml">SBGN-PD brick </a> &ensp; 
+ <a href="/modelbricks/Tyson_2003_1a.vcml">VCell brick</a> &ensp; 
+ <a href="/modelbricks/Tyson_2003_1a.xml">SBML brick</a></div>
 
 ### Publication
 
