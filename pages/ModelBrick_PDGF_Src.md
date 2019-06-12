@@ -35,7 +35,7 @@ This model represents the activation of Src kinase, which is stimulated by the g
    <img align="center" src="/images/modelbricks/PDGF_ModelBrick_ReactionDiagram.PNG" />
   </td>
   <td>
-   <img align="center" src="/images/modelbricks/Pathways-AKAP7.PNG" />
+   <img align="center" src="/images/modelbricks/PDGF_ModelBrick_PathwayDiagram.PNG" />
   </td>
  </tr>
   <tr>
