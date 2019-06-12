@@ -39,13 +39,13 @@ This model represents the activation of Src kinase, which is stimulated by the g
   </td>
  </tr>
   <tr>
-  <td width="33%">
+  <td>
    <a href="AKAP7_PLB_Binding_2PKA_links.vcml">AKAP7_PLB_Binding_2PKA_links.vcml</a> SBGN visualization
   </td>
-  <td width="33%">
+  <td>
    <a href="AKAP7_PLB_Binding_2PKA_links.vcml">AKAP7_PLB_Binding_2PKA_links.vcml</a> Reaction diagram
   </td>
-  <td width="33%">
+  <td>
    VCell: Pathway diagram
   </td>
  </tr>
