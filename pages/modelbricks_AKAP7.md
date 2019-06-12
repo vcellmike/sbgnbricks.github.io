@@ -7,11 +7,11 @@ permalink: /modelbricks_AKAP7/
 
 ### Downloads
 <div class="img" style="font-size:90%; text-align:center;"><br />
- <a href="/modelbricks/PhosphorylationSBGN.graphml">SBGN-PD brick</a> &ensp; 
- <a href="/modelbricks/Tyson_2003_1b.vcml">VCell brick Hyperbolic</a> &ensp; 
- <a href="/modelbricks/Tyson_2003_1c.vcml">VCell brick Sigmoidal</a> &ensp;
- <a href="/modelbricks/Tyson_2003_1b.xml">SBML brick Hyperbolic</a> &ensp;
-<a href="/modelbricks/Tyson_2003_1c.xml">SBML brick Sigmoidal</a>
+ <a href="/modelbricks/PhosphorylationSBGN.graphml">SBGN-PD brick</a>test &ensp; 
+ <a href="/modelbricks/Tyson_2003_1b.vcml">VCell brick Hyperbolic</a>test &ensp; 
+ <a href="/modelbricks/Tyson_2003_1c.vcml">VCell brick Sigmoidal</a>test &ensp;
+ <a href="/modelbricks/Tyson_2003_1b.xml">SBML brick Hyperbolic</a>test &ensp;
+<a href="/modelbricks/Tyson_2003_1c.xml">SBML brick Sigmoidal</a>test
 </div>
 <br />
 
