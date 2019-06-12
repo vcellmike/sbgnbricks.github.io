@@ -28,3 +28,32 @@ This model represents the activation of Src kinase, which is stimulated by the g
 
  <img src="/images/modelbricks/PDGF_ModelBrick_SBGN.PNG" height="200"/> &ensp;
  <img src="/images/modelbricks/PDGF_ModelBrick_ReactionDiagram.PNG" height="200">
+ 
+ <table>
+ <tr>
+  <td>
+   <img align="center" src="/images/modelbricks/PDGF_ModelBrick_SBGN.PNG" />
+  </td>
+  <td>
+   <img align="center" src="/images/modelbricks/PDGF_ModelBrick_ReactionDiagram.PNG" />
+  </td>
+  <td>
+   <img align="center" src="/images/modelbricks/Pathways-AKAP7.PNG" />
+  </td>
+ </tr>
+  <tr>
+  <td>
+   <a href="AKAP7_PLB_Binding_2PKA_links.vcml">AKAP7_PLB_Binding_2PKA_links.vcml</a> SBGN visualization
+  </td>
+  <td>
+   <a href="AKAP7_PLB_Binding_2PKA_links.vcml">AKAP7_PLB_Binding_2PKA_links.vcml</a> Reaction diagram
+  </td>
+  <td>
+   VCell: Pathway diagram
+  </td>
+ </tr>
+ </table>
+
+
+### Contributors
+John Albanese, Michael Blinov
