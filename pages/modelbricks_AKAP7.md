@@ -49,9 +49,9 @@ This model is comprised of two modules 1) the production of cAMP and the activat
  </tr>
  </table>
 
----
 ### Contributors
----
+
+ <div class="img" style="font-size:90%; text-align:center;">
 María Heredia, Michael Blinov
 
  
