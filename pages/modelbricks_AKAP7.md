@@ -9,10 +9,8 @@ permalink: /modelbricks_AKAP7/
 
 <div class="img" style="font-size:90%; text-align:center;"><br />
  <a href="/modelbricks/cAMP_prod.graphml">SBGN-PD brick cAMP production </a> &ensp; 
-  <a href="/modelbricks/PKA_act.graphml">SBGN-PD brick PKA activation </a> &ensp 
- <a href="/modelbricks/AKAP7_PLB.graphml">SBGN-PD brick AKAP7_PLB interaction </a> &ensp
- 
-<br />
+  <a href="/modelbricks/PKA_act.graphml">SBGN-PD brick PKA activation </a> &ensp; 
+ <a href="/modelbricks/AKAP7_PLB.graphml">SBGN-PD brick AKAP7_PLB interaction </a> &ensp;<br />
 
 ### Publication 
  <div class="img" style="font-size:90%; text-align:center;">
